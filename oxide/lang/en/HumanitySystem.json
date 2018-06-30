@@ -1,0 +1,5 @@
+{
+  "Humanity": "{0}'s Stats: \n Humanity Rank: {1} \n Current Humanity: {2}",
+  "NowA": "Congratulations! You now have the rank of: {0}",
+  "Information": "HumanitySystem is the system based off of the DayZ mod humanity. DayZ's humanity system was a way to rank a player based on how they kill and how they interact with other players. \nRanks: \n *Hero(2500+ humanity) \n *Bandit(2500 and less humanity) \n *Neutral(Anything between hero and bandit)"
+}

@@ -1,0 +1,8 @@
+{
+  "EmptyFPSLimit": 30,
+  "EmptyTickrate": 10,
+  "MaxFPSLimit": 256,
+  "MaxTickrate": 30,
+  "UseFPSLimit": true,
+  "UseTickrate": true
+}

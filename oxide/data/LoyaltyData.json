@@ -1,0 +1,18 @@
+{
+  "players": {
+    "76561197989068900": {
+      "name": "Enzo Vissentini",
+      "id": 76561197989068900,
+      "loyalty": 14,
+      "group": ""
+    },
+    "76561197990020059": {
+      "name": "Dasilva Diego",
+      "id": 76561197990020059,
+      "loyalty": 63,
+      "group": ""
+    }
+  },
+  "usergroups": [],
+  "rewards": []
+}

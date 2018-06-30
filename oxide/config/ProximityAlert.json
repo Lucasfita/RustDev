@@ -1,0 +1,15 @@
+{
+  "CustomPermissions": {
+    "proximityalert.vip1": 50.0,
+    "proximityalert.vip2": 75.0
+  },
+  "DetectHumanNPCs": false,
+  "DetectSleepers": false,
+  "FontSize": 18,
+  "GUI_X_Dim": 0.6,
+  "GUI_X_Pos": 0.2,
+  "GUI_Y_Dim": 0.16,
+  "GUI_Y_Pos": 0.1,
+  "TriggerRadius": 25.0,
+  "UseCustomPermissions": true
+}

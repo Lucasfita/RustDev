@@ -1,0 +1,5 @@
+{
+  "MessageFormat": "{0}: {1}",
+  "NoAccess": "You are not allowed to use this command",
+  "NoMessage": "You did not specify a message"
+}

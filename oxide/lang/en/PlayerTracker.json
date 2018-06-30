@@ -1,0 +1,10 @@
+{
+  "No Permission": "You are not allowed to use this command",
+  "Invalid Syntax": "Invalid Syntax! /track <start | stop | show> <playername | id> <length>",
+  "Starttrack Invalid Syntax": "Invalid Syntax! /starttrack <playername | id>",
+  "Tracker Started": "You have started tracking {0}",
+  "Tracker Stopped": "You have stopped tracking {0}",
+  "Not Being Tracked": "This player is not currently being tracked",
+  "No Player Found": "No players were found with this name/id",
+  "Already Being Tracked": "This player is already being tacked"
+}

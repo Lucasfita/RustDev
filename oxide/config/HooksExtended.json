@@ -1,0 +1,22 @@
+{
+  "HookSettings": {
+    "CanCraft": false,
+    "CanNetworkTo": false,
+    "OnConsumeFuel": false,
+    "OnEntityDeath": false,
+    "OnEntitySpawned": false,
+    "OnEntityTakeDamage": false,
+    "OnItemAction": false,
+    "OnItemAddedToContainer": false,
+    "OnItemCraft": false,
+    "OnItemCraftCancelled": false,
+    "OnItemCraftFinished": false,
+    "OnItemDeployed": false,
+    "OnItemRemovedFromContainer": false,
+    "OnPlayerAttack": false,
+    "OnPlayerInput": false,
+    "OnPlayerTick": false,
+    "OnRunPlayerMetabolism": false
+  },
+  "VERSION": "0.1.3"
+}

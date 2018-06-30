@@ -1,0 +1,8 @@
+{
+  "Amount of trial Days: ": 3,
+  "Permissions of the group:": [
+    "Oxide.plugins",
+    "oxide.reload"
+  ],
+  "VIP group name: ": "vip_trial"
+}

@@ -1,0 +1,251 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Got Message: Ready
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Restarting: DayNightGather.cs(30,14): warning CS0114: `Oxide.Plugins.DayNightGather.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+EmptyLowFPS.cs(19,14): warning CS0114: `Oxide.Plugins.EmptyLowFPS.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+EnhancedHammer.cs(96,8): warning CS0114: `Oxide.Plugins.EnhancedHammer.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+GUIAnnouncements.cs(833,14): warning CS0114: `Oxide.Plugins.GUIAnnouncements.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+HumanitySystem.cs(26,14): warning CS0114: `Oxide.Plugins.HumanitySystem.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+JPipes.cs(2279,22): warning CS0114: `Oxide.Plugins.JPipes.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+JPipes.cs(2029,23): warning CS0108: `Oxide.Plugins.JPipes.jPipeSegChildLights.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)' hides inherited member `Oxide.Plugins.JPipes.jPipeSegChild.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)'. Use the new keyword if hiding was intended
+JPipes.cs(2021,32): (Location of the symbol related to previous warning)
+LastName.cs(48,8): warning CS0114: `Oxide.Plugins.LastName.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+ProtocolKickInfo.cs(20,8): warning CS0114: `Oxide.Plugins.ProtocolKickInfo.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+SignTracker.cs(48,14): warning CS0114: `Oxide.Plugins.SignTracker.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+StartProtection.cs(921,14): warning CS0114: `Oxide.Plugins.StartProtection.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+ZoneCommand.cs(60,8): warning CS0114: `Oxide.Plugins.ZoneCommand.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+AutoCrafter.cs(228,15): warning CS0219: The variable `player' is assigned but its value is never used
+AutoCrafter.cs(895,21): error CS0117: `BuildingManager' does not contain a definition for `DecayEntities'
+D:\RSM\Assembly-CSharp.dll (Location of the symbol related to previous error)
+CopyPaste.cs(374,127): warning CS0618: `UnityEngine.Quaternion.ToEulerAngles()' is obsolete: `Use Quaternion.eulerAngles instead. This function was deprecated because it uses radians instead of degrees.'
+CopyPaste.cs(982,49): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+CopyPaste.cs(996,49): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+DamageDisplay.cs(70,17): warning CS0472: The result of comparing value type `Rust.DamageType' with null is always `false'
+DamageDisplay.cs(70,31): warning CS0162: Unreachable code detected
+Economics.cs(260,65): warning CS0618: `Oxide.Plugins.Economics.SetMoney(string, double)' is obsolete: `SetMoney is deprecated, use SetBalance instead'
+Economics.cs(395,17): warning CS0618: `Oxide.Plugins.Economics.SetMoney(string, double)' is obsolete: `SetMoney is deprecated, use SetBalance instead'
+EditTool.cs(1538,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(1547,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(2251,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(2260,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EmptyLowFPS.cs(82,17): warning CS0472: The result of comparing value type `int' with null is always `true'
+EmptyLowFPS.cs(85,17): warning CS0472: The result of comparing value type `int' with null is always `true'
+EmptyLowFPS.cs(85,13): warning CS0162: Unreachable code detected
+HammerTime.cs(228,17): warning CS0472: The result of comparing value type `InvokeAction' with null is always `true'
+IngameClockGUI.cs(26,9): warning CS0108: `Oxide.Plugins.IngameClockGUI.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+JPipes.cs(279,6): warning CS0162: Unreachable code detected
+LastName.cs(28,9): warning CS0108: `Oxide.Plugins.LastName.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+Loyalty.cs(43,22): warning CS0108: `Oxide.Plugins.Loyalty.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+NoEscape.cs(769,193): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+Npctp.cs(701,21): warning CS0162: Unreachable code detected
+Npctp.cs(715,21): warning CS0162: Unreachable code detected
+Npctp.cs(729,21): warning CS0162: Unreachable code detected
+Npctp.cs(743,21): warning CS0162: Unreachable code detected
+Npctp.cs(757,21): warning CS0162: Unreachable code detected
+Npctp.cs(771,21): warning CS0162: Unreachable code detected
+Npctp.cs(785,21): warning CS0162: Unreachable code detected
+Npctp.cs(799,21): warning CS0162: Unreachable code detected
+Skins.cs(386,24): warning CS0618: `Oxide.Core.Libraries.WebRequests.EnqueueGet(string, System.Action<int,string>, Oxide.Core.Plugins.Plugin, System.Collections.Generic.Dictionary<string,string>, float)' is obsolete: `EnqueueGet is deprecated, use Enqueue instead'
+SmartChatBot.cs(235,21): warning CS0472: The result of comparing value type `System.DateTime' with null is always `true'
+StartMachine.cs(121,34): error CS0103: The name `CampfireMachine' does not exist in the current context
+StartMachine.cs(142,30): error CS0103: The name `DrillMachine' does not exist in the current context
+StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+ZoneManager.cs(1398,28): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+ZoneManager.cs(1399,17): warning CS0162: Unreachable code detected
+Warning: restarting compilation
+
+[SERVER v1.0.24] Console: DayNightGather.cs(30,14): warning CS0114: `Oxide.Plugins.DayNightGather.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+EmptyLowFPS.cs(19,14): warning CS0114: `Oxide.Plugins.EmptyLowFPS.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+EnhancedHammer.cs(96,8): warning CS0114: `Oxide.Plugins.EnhancedHammer.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+GUIAnnouncements.cs(833,14): warning CS0114: `Oxide.Plugins.GUIAnnouncements.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+HumanitySystem.cs(26,14): warning CS0114: `Oxide.Plugins.HumanitySystem.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+JPipes.cs(2279,22): warning CS0114: `Oxide.Plugins.JPipes.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+JPipes.cs(2029,23): warning CS0108: `Oxide.Plugins.JPipes.jPipeSegChildLights.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)' hides inherited member `Oxide.Plugins.JPipes.jPipeSegChild.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)'. Use the new keyword if hiding was intended
+JPipes.cs(2021,32): (Location of the symbol related to previous warning)
+LastName.cs(48,8): warning CS0114: `Oxide.Plugins.LastName.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+ProtocolKickInfo.cs(20,8): warning CS0114: `Oxide.Plugins.ProtocolKickInfo.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+SignTracker.cs(48,14): warning CS0114: `Oxide.Plugins.SignTracker.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+StartProtection.cs(921,14): warning CS0114: `Oxide.Plugins.StartProtection.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+ZoneCommand.cs(60,8): warning CS0114: `Oxide.Plugins.ZoneCommand.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
+BetterLoot.cs(244,8): warning CS0219: The variable `itemList' is assigned but its value is never used
+ClothingSlots.cs(70,17): warning CS0219: The variable `container' is assigned but its value is never used
+ClothingSlots.cs(71,17): warning CS0219: The variable `player' is assigned but its value is never used
+CopyPaste.cs(374,127): warning CS0618: `UnityEngine.Quaternion.ToEulerAngles()' is obsolete: `Use Quaternion.eulerAngles instead. This function was deprecated because it uses radians instead of degrees.'
+CopyPaste.cs(965,38): warning CS0168: The variable `ex' is declared but never used
+CopyPaste.cs(982,49): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+CopyPaste.cs(996,49): warning CS0618: `UnityEngine.Quaternion.EulerRotation(UnityEngine.Vector3)' is obsolete: `Use Quaternion.Euler instead. This function was deprecated because it uses radians instead of degrees.'
+DamageDisplay.cs(70,17): warning CS0472: The result of comparing value type `Rust.DamageType' with null is always `false'
+DamageDisplay.cs(70,31): warning CS0162: Unreachable code detected
+Economics.cs(260,65): warning CS0618: `Oxide.Plugins.Economics.SetMoney(string, double)' is obsolete: `SetMoney is deprecated, use SetBalance instead'
+Economics.cs(395,17): warning CS0618: `Oxide.Plugins.Economics.SetMoney(string, double)' is obsolete: `SetMoney is deprecated, use SetBalance instead'
+EditTool.cs(594,21): warning CS0219: The variable `ray' is assigned but its value is never used
+EditTool.cs(596,25): warning CS0219: The variable `difference' is assigned but its value is never used
+EditTool.cs(795,23): warning CS0219: The variable `fadeIn' is assigned but its value is never used
+EditTool.cs(1538,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(1547,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(2251,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(2260,29): warning CS0472: The result of comparing value type `UnityEngine.Vector2' with null is always `true'
+EditTool.cs(2349,34): warning CS0168: The variable `ex' is declared but never used
+EditTool.cs(2362,34): warning CS0168: The variable `ex' is declared but never used
+EmptyLowFPS.cs(82,17): warning CS0472: The result of comparing value type `int' with null is always `true'
+EmptyLowFPS.cs(85,17): warning CS0472: The result of comparing value type `int' with null is always `true'
+EmptyLowFPS.cs(85,13): warning CS0162: Unreachable code detected
+FurnaceSplitter.cs(340,27): warning CS0219: The variable `originalContainer' is assigned but its value is never used
+HammerTime.cs(228,17): warning CS0472: The result of comparing value type `InvokeAction' with null is always `true'
+HeliControl.cs(917,17): warning CS0219: The variable `callTarget' is assigned but its value is never used
+HeliControl.cs(918,17): warning CS0219: The variable `callSelf' is assigned but its value is never used
+HeliControl.cs(1081,17): warning CS0219: The variable `newHelis' is assigned but its value is never used
+HeliControl.cs(1355,17): warning CS0219: The variable `newHelis' is assigned but its value is never used
+HooksExtended.cs(1070,35): warning CS0219: The variable `dispenser' is assigned but its value is never used
+HooksExtended.cs(1091,31): warning CS0219: The variable `dispenser' is assigned but its value is never used
+Hotel.cs(522,20): warning CS0219: The variable `zonename' is assigned but its value is never used
+IngameClockGUI.cs(26,9): warning CS0108: `Oxide.Plugins.IngameClockGUI.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+Jail.cs(982,17): warning CS0219: The variable `success' is assigned but its value is never used
+JPipes.cs(279,6): warning CS0162: Unreachable code detected
+JPipes.cs(2298,44): warning CS0219: The variable `levels' is assigned but its value is never used
+Jtech.cs(3444,11): warning CS0219: The variable `flowpipe' is assigned but its value is never used
+Jtech.cs(3478,11): warning CS0219: The variable `infobg' is assigned but its value is never used
+LastName.cs(28,9): warning CS0108: `Oxide.Plugins.LastName.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+Loyalty.cs(43,22): warning CS0108: `Oxide.Plugins.Loyalty.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
+D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
+LustyMap.cs(1045,17): warning CS0219: The variable `playerdirection' is assigned but its value is never used
+NoEscape.cs(769,193): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+NoEscape.cs(1012,17): warning CS0219: The variable `targetMembers' is assigned but its value is never used
+Npctp.cs(701,21): warning CS0162: Unreachable code detected
+Npctp.cs(715,21): warning CS0162: Unreachable code detected
+Npctp.cs(729,21): warning CS0162: Unreachable code detected
+Npctp.cs(743,21): warning CS0162: Unreachable code detected
+Npctp.cs(757,21): warning CS0162: Unreachable code detected
+Npctp.cs(771,21): warning CS0162: Unreachable code detected
+Npctp.cs(785,21): warning CS0162: Unreachable code detected
+Npctp.cs(799,21): warning CS0162: Unreachable code detected
+Npctp.cs(880,17): warning CS0219: The variable `doorcheck' is assigned but its value is never used
+Npctp.cs(888,17): warning CS0219: The variable `time' is assigned but its value is never used
+Npctp.cs(1026,19): warning CS0219: The variable `playerId' is assigned but its value is never used
+Npctp.cs(1128,17): warning CS0219: The variable `cooldownTime' is assigned but its value is never used
+Npctp.cs(1170,25): warning CS0219: The variable `i' is assigned but its value is never used
+PermissionsManager.cs(180,17): warning CS0219: The variable `pageNo' is assigned but its value is never used
+PermissionsManager.cs(269,18): warning CS0219: The variable `present' is assigned but its value is never used
+PermissionsManager.cs(318,12): warning CS0219: The variable `RightAMin1' is assigned but its value is never used
+PermissionsManager.cs(319,12): warning CS0219: The variable `RightAMax1' is assigned but its value is never used
+PermissionsManager.cs(320,12): warning CS0219: The variable `RightBMin1' is assigned but its value is never used
+PermissionsManager.cs(321,12): warning CS0219: The variable `RightBMax1' is assigned but its value is never used
+PermissionsManager.cs(593,28): warning CS0219: The variable `PermInHand' is assigned but its value is never used
+QuickSmelt.cs(202,17): warning CS0219: The variable `data' is assigned but its value is never used
+ServerRewards.cs(1223,17): warning CS0219: The variable `type' is assigned but its value is never used
+Skins.cs(386,24): warning CS0618: `Oxide.Core.Libraries.WebRequests.EnqueueGet(string, System.Action<int,string>, Oxide.Core.Plugins.Plugin, System.Collections.Generic.Dictionary<string,string>, float)' is obsolete: `EnqueueGet is deprecated, use Enqueue instead'
+SmartChatBot.cs(235,21): warning CS0472: The result of comparing value type `System.DateTime' with null is always `true'
+StartProtection.cs(338,19): warning CS0219: The variable `u' is assigned but its value is never used
+StartProtection.cs(396,19): warning CS0219: The variable `u' is assigned but its value is never used
+SurveyInfo.cs(100,17): warning CS0219: The variable `newBestScore' is assigned but its value is never used
+SurveyInfo.cs(104,24): warning CS0219: The variable `gatherManagerMulitiplier' is assigned but its value is never used
+ZoneManager.cs(1398,28): warning CS0472: The result of comparing value type `UnityEngine.Vector3' with null is always `false'
+ZoneManager.cs(1399,17): warning CS0162: Unreachable code detected
+AdminRadar.cs(1934,29): warning CS0414: The private field `Oxide.Plugins.AdminRadar.itemExceptions' is assigned but its value is never used
+AdminRadar.cs(1935,14): warning CS0169: The private field `Oxide.Plugins.AdminRadar.alignTopLeft' is never used
+ClothingSlots.cs(389,27): warning CS0414: The private field `Oxide.Plugins.ClothingSlots.PlayerDataController<T>._timer' is assigned but its value is never used
+DamageDisplay.cs(24,42): warning CS0414: The private field `Oxide.Plugins.DamageDisplay.DisabledFor' is assigned but its value is never used
+DangerousTreasures.cs(44,20): warning CS0414: The private field `Oxide.Plugins.DangerousTreasures.twdMask' is assigned but its value is never used
+DangerousTreasures.cs(45,20): warning CS0414: The private field `Oxide.Plugins.DangerousTreasures.twwMask' is assigned but its value is never used
+DragableCorpses.cs(168,27): warning CS0414: The private field `Oxide.Plugins.DragableCorpses.PlayerDataController<T>._timer' is assigned but its value is never used
+EditTool.cs(262,32): warning CS0414: The private field `Oxide.Plugins.EditTool.ToolPlayerData._lastRotation' is assigned but its value is never used
+EditTool.cs(650,27): warning CS0414: The private field `Oxide.Plugins.EditTool.EntitySaver._ownerID' is assigned but its value is never used
+EditTool.cs(652,29): warning CS0414: The private field `Oxide.Plugins.EditTool.EntitySaver.lastPos' is assigned but its value is never used
+GUIAnnouncements.cs(47,23): warning CS0414: The private field `Oxide.Plugins.GUIAnnouncements.GetNextRestartTimer' is assigned but its value is never used
+GUIAnnouncements.cs(54,24): warning CS0414: The private field `Oxide.Plugins.GUIAnnouncements.RestartAnnouncementsWhen' is assigned but its value is never used
+HeliControl.cs(1877,24): warning CS0649: Field `Oxide.Plugins.HeliControl.ItemDef.amountMin' is never assigned to, and will always have its default value `0'
+HeliControl.cs(1878,24): warning CS0649: Field `Oxide.Plugins.HeliControl.ItemDef.amountMax' is never assigned to, and will always have its default value `0'
+HooksExtended.cs(44,17): warning CS0414: The private field `Oxide.Plugins.HooksExtended.eyesPosition' is assigned but its value is never used
+HooksExtended.cs(45,20): warning CS0414: The private field `Oxide.Plugins.HooksExtended.playerLayer' is assigned but its value is never used
+HooksExtended.cs(81,31): warning CS0649: Field `Oxide.Plugins.HooksExtended.PlayerProfile.Player' is never assigned to, and will always have its default value `null'
+HooksExtended.cs(85,25): warning CS0649: Field `Oxide.Plugins.HooksExtended.PlayerProfile.wasDrowning' is never assigned to, and will always have its default value `false'
+HooksExtended.cs(108,19): warning CS0649: Field `Oxide.Plugins.HooksExtended.ProfileMetabolism.oxygen' is never assigned to, and will always have its default value `0'
+Hotel.cs(359,24): warning CS0649: Field `Oxide.Plugins.Hotel.HotelData.price' is never assigned to, and will always have its default value `0'
+HumanNPC.cs(44,30): warning CS0169: The private field `Oxide.Plugins.HumanNPC.Waypoints' is never used
+ImageLibrary.cs(980,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.ImageAssets.isLoading' is assigned but its value is never used
+IngameClockGUI.cs(134,11): warning CS0414: The private field `Oxide.Plugins.IngameClockGUI.updateTimer' is assigned but its value is never used
+JPipes.cs(28,30): warning CS0414: The private field `Oxide.Plugins.JPipes.blue' is assigned but its value is never used
+JPipes.cs(29,30): warning CS0414: The private field `Oxide.Plugins.JPipes.orange' is assigned but its value is never used
+JPipes.cs(2262,29): warning CS0414: The private field `Oxide.Plugins.JPipes.drawflowarrows' is assigned but its value is never used
+JPipes.cs(2263,29): warning CS0414: The private field `Oxide.Plugins.JPipes.animatearrows' is assigned but its value is never used
+JPipes.cs(802,25): warning CS0414: The private field `Oxide.Plugins.JPipes.jPipe.lookingatstash' is assigned but its value is never used
+JPipes.cs(1463,28): warning CS0169: The private field `Oxide.Plugins.JPipes.jSyncBox.pipeplugin' is never used
+JPipes.cs(1465,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.id' is never assigned to, and will always have its default value `0'
+JPipes.cs(1468,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.ownerid' is never assigned to, and will always have its default value `0'
+JPipes.cs(1469,27): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.ownername' is never assigned to, and will always have its default value `null'
+JPipes.cs(2451,25): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.s' is never assigned to, and will always have its default value `0'
+JPipes.cs(2452,25): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.d' is never assigned to, and will always have its default value `0'
+JPipes.cs(2453,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.h' is never assigned to, and will always have its default value `0'
+JPipes.cs(2454,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.o' is never assigned to, and will always have its default value `0'
+JPipes.cs(2455,27): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.on' is never assigned to, and will always have its default value `null'
+Jtech.cs(1051,45): warning CS0414: The private field `Oxide.Plugins.JtechCore.JDeployable.containers' is assigned but its value is never used
+Jtech.cs(1918,16): warning CS0169: The private field `Oxide.Plugins.JtechCore.UserInfo.isHoldingPlaceholder' is never used
+Jtech.cs(1930,16): warning CS0414: The private field `Oxide.Plugins.JtechCore.UserInfo.isMenuOpen' is assigned but its value is never used
+Jtech.cs(1941,16): warning CS0414: The private field `Oxide.Plugins.JtechCore.UserInfo.movingplaceholder' is assigned but its value is never used
+Kits.cs(25,41): warning CS0169: The private field `Oxide.Plugins.Kits.EventManager' is never used
+LoadingMessages.cs(78,27): warning CS0649: Field `Oxide.Plugins.LoadingMessages.MsgConfig.QueuePosition' is never assigned to, and will always have its default value `null'
+LustyMap.cs(35,23): warning CS0414: The private field `Oxide.Plugins.LustyMap.worldSize' is assigned but its value is never used
+LustyMap.cs(27,41): warning CS0169: The private field `Oxide.Plugins.LustyMap.EventManager' is never used
+NoEscape.cs(173,22): warning CS0414: The private field `Oxide.Plugins.NoEscape._htmlRegex' is assigned but its value is never used
+Npctp.cs(47,22): warning CS0649: Field `Oxide.Plugins.Npctp.backroundimage' is never assigned to, and will always have its default value `false'
+Npctp.cs(48,24): warning CS0649: Field `Oxide.Plugins.Npctp.backroundimageurl' is never assigned to, and will always have its default value `null'
+Npctp.cs(49,28): warning CS0414: The private field `Oxide.Plugins.Npctp.cooldownTime' is assigned but its value is never used
+Npctp.cs(50,28): warning CS0414: The private field `Oxide.Plugins.Npctp.auth' is assigned but its value is never used
+Npctp.cs(60,29): warning CS0414: The private field `Oxide.Plugins.Npctp.useItem' is assigned but its value is never used
+Npctp.cs(62,29): warning CS0414: The private field `Oxide.Plugins.Npctp.AutoCloseDoors' is assigned but its value is never used
+PermissionsManager.cs(27,24): warning CS0649: Field `Oxide.Plugins.PermissionsManager.info.plugNumber' is never assigned to, and will always have its default value `0'
+PlayerManager.cs(22,16): warning CS0169: The private field `Oxide.Plugins.PlayerManager.chatmute' is never used
+PlayerManager.cs(142,27): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommands.permission' is never assigned to, and will always have its default value `null'
+PlayerManager.cs(143,42): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommands.commands' is never assigned to, and will always have its default value `null'
+PlayerManager.cs(144,27): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommands.name' is never assigned to, and will always have its default value `null'
+PlayerManager.cs(148,27): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommand.color' is never assigned to, and will always have its default value `null'
+PlayerManager.cs(149,27): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommand.text' is never assigned to, and will always have its default value `null'
+PlayerManager.cs(150,27): warning CS0649: Field `Oxide.Plugins.PlayerManager.ExternalCommand.cmd' is never assigned to, and will always have its default value `null'
+RainOfFire.cs(22,23): warning CS0414: The private field `Oxide.Plugins.RainOfFire.fireRocketChance' is assigned but its value is never used
+RemoverTool.cs(799,15): warning CS0169: The private field `Oxide.Plugins.RemoverTool.ToolRemover.heldEntity' is never used
+ServerRewards.cs(37,21): warning CS0649: Field `Oxide.Plugins.ServerRewards.uiFadeIn' is never assigned to, and will always have its default value `false'
+ServerRewards.cs(25,33): warning CS0169: The private field `Oxide.Plugins.ServerRewards.EventManager' is never used
+ServerRewards.cs(25,47): warning CS0169: The private field `Oxide.Plugins.ServerRewards.HumanNPC' is never used
+ServerRewards.cs(25,67): warning CS0169: The private field `Oxide.Plugins.ServerRewards.PlaytimeTracker' is never used
+Skins.cs(569,24): warning CS0649: Field `Oxide.Plugins.Skins.WeaponMods.itemId' is never assigned to, and will always have its default value `0'
+Skins.cs(570,26): warning CS0649: Field `Oxide.Plugins.Skins.WeaponMods.condition' is never assigned to, and will always have its default value `0'
+SmartChatBot.cs(20,22): warning CS0414: The private field `Oxide.Plugins.SmartChatBot._isDebug' is assigned but its value is never used
+StartProtection.cs(53,20): warning CS0169: The private field `Oxide.Plugins.StartProtection.storedDataEx' is never used
+SurveyInfo.cs(23,24): warning CS0414: The private field `Oxide.Plugins.SurveyInfo.PrefixColor' is assigned but its value is never used
+SurveyInfo.cs(24,24): warning CS0414: The private field `Oxide.Plugins.SurveyInfo.ResultsAmountColor' is assigned but its value is never used
+SurveyInfo.cs(25,24): warning CS0414: The private field `Oxide.Plugins.SurveyInfo.ResultResourseNameColor' is assigned but its value is never used
+
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Console: 
+[SERVER v1.0.24] Got Message: Exit
+[SERVER v1.0.24] Exit received.
+[SERVER v1.0.24] Connection closed.
+[SERVER v1.0.24] Shutdown

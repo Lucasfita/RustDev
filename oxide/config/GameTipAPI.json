@@ -1,0 +1,13 @@
+{
+  "Scheduled Tips": [
+    {
+      "Message": {
+        "Text": "Example Message",
+        "Duration": 5.0
+      },
+      "Period": 300.0,
+      "Mandatory": false,
+      "Enabled": false
+    }
+  ]
+}

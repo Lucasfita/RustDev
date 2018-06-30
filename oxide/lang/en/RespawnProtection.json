@@ -1,0 +1,12 @@
+{
+  "Cant Hit": "You Cant Hit this player until protection is left. {0}",
+  "Protected": "You have just respawned, you are protected for {0}s from pvp.",
+  "ProtectedPVE": "You have just respawned, you are protected for {0}s from pve.",
+  "NoLongerProtected": "You are no longer protected from pvp, take care.",
+  "NoLongerProtectedNPC": "You are no longer protected from pve, take care.",
+  "TryKill": "You are trying to kill a fresh respawned player, you lost {0} money.",
+  "Killed": "You just kill a fresh respawned player, you lost {0} money.",
+  "UserNotFound": "There is no player with this ID ({0})",
+  "ProtectionRemoved": "Protection from player {0} removed.",
+  "NotProtected": "This player is not protected."
+}

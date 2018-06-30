@@ -1,0 +1,6 @@
+{
+  "PlayerKicked": "<color=orange>SERVER:</color> {0} was kicked from the server ({1})",
+  "YouKicked": "You were kicked from the server ({0})",
+  "PlayerBanned": "<color=orange>SERVER:</color> {0} - {1} was banned from the server ({2})",
+  "YouBanned": "You were banned from the server ({0})"
+}

@@ -1,0 +1,10 @@
+{
+  "allowAdmin": true,
+  "colorError": "red",
+  "colorHighlight": "yellow",
+  "colorText": "#FFFFFF",
+  "debug": false,
+  "rate": 60.0,
+  "serverIconID": "76561198314979344",
+  "serverName": "Default Server"
+}

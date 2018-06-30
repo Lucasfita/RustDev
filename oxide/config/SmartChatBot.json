@@ -1,0 +1,8 @@
+{
+  "ChatDisplayName": "<color=#00FF00>[Bot]</color>",
+  "BotCooldownInSeconds": 15.0,
+  "BotChatDisplaySteamId": "1",
+  "IsDebug": false,
+  "TimedMessages": [],
+  "AutomatedResponses": []
+}

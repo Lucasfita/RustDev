@@ -1,0 +1,14 @@
+{
+  "player already blinded": "This player is already blinded! use unblind <playername / id>",
+  "player blinded": "{0} was blinded!",
+  "player unblinded": "{0} was unblinded!",
+  "no permissions": "You are not allowed to use this command!",
+  "player not found": "The player was not found / is offline",
+  "unblind invalid syntax": "Invalid syntax! unblind <playername / id>",
+  "blind invalid syntax": "Invalid syntax! blind <playername / id> <length> <\"message\">",
+  "target offline": "The target you selected is currently offline!",
+  "More than one result": "There was more than one result! please give a clearer search term",
+  "Blindprotect Invalid Syntax": "Invalid syntax! /blindprotect <length of punishment>",
+  "protection disabled": "Your blind protection was disabled!",
+  "protection enabled": "Your blind protection was enabled!"
+}

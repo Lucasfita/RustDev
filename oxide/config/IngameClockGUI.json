@@ -1,0 +1,31 @@
+{
+  "BackgroundColor": "0.1 0.1 0.1 0.3",
+  "FontSize": 14,
+  "Messages": {
+    "Disabled": "You have disabled clock",
+    "Enabled": "You have enabled clock",
+    "Help": "Clock:\n/clock - toggle clock\n/clock server - toggle server/ingame time",
+    "PreventChangeEnabled": "You can't choose between server or ingame time",
+    "STDisabled": "Now your clock shows ingame time",
+    "STEnabled": "Now your clock shows server time"
+  },
+  "Position": {
+    "Bottom": 0.015,
+    "Left": 0.01
+  },
+  "Postfix": "",
+  "Prefix": "",
+  "PreventChangingTime": false,
+  "ServerTime": false,
+  "ShowSeconds": false,
+  "Size": {
+    "Height": 0.03,
+    "Width": 0.05
+  },
+  "TextColor": "1 1 1 0.3",
+  "TimedInfo": [
+    ""
+  ],
+  "TimeFormat": 24,
+  "UpdateTimeInSeconds": 2
+}

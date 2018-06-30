@@ -1,0 +1,10 @@
+{
+  "CommandSpectate": "gespenst",
+  "NotAllowed": "Sie sind nicht berechtigt, verwenden Sie den Befehl '{0}'",
+  "NoValidTargets": "Zuschauen Sie keine gültige Ziele",
+  "PlayersOnly": "Befehl '{0}' kann nur von einem Spieler verwendet werden",
+  "SpectateSelf": "Sie können nicht selbst als Zuschauer",
+  "SpectateStart": "Begann zuschauen {0}",
+  "SpectateStop": "Nicht mehr zuschauen {0}",
+  "TargetIsSpectating": "{0} ist derzeit ein anderer Spieler zuschauen"
+}

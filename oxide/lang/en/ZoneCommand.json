@@ -1,0 +1,13 @@
+{
+  "HelpText": "ZoneCommand:\n/zcmd add <zoneID> {command} {command} ...\n/zcmd remove <zoneID>\n/zcmd list",
+  "AvailableVars": "Available variables: $player.id, $player.name, $player.xyz, $player.x, $player.y, $player.z",
+  "UsableCommands": "Available commands: add, remove, list, clear, vars",
+  "ErrorEnterID": "You must enter ID of zone",
+  "ErrorEnterCommands": "You must enter at least one command",
+  "ErrorNotFound": "Zone was not found",
+  "Added": "Zone with commands was successfully added!",
+  "Removed": "Commands for zone has been removed!",
+  "Clear": "All commands for zones were deleted",
+  "List": "Zones with commands:\n",
+  "Unpermitted": "You do not have a permission to use this command"
+}

@@ -1,0 +1,17 @@
+{
+  "DamageForAttacker": true,
+  "DamageForVictim": true,
+  "DisplayAttackerNameRange": 50,
+  "DisplayBodyPart": false,
+  "DisplayDistance": true,
+  "DisplayTime": 0.3,
+  "DisplayVictimNameRange": 50,
+  "X_MaxAttacker": 0.675,
+  "X_MaxVictim": 0.475,
+  "X_MinAttacker": 0.555,
+  "X_MinVictim": 0.355,
+  "Y_MaxAttacker": 0.99,
+  "Y_MaxVictim": 0.99,
+  "Y_MinAttacker": 0.91,
+  "Y_MinVictim": 0.91
+}

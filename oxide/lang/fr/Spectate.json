@@ -1,0 +1,10 @@
+{
+  "CommandSpectate": "spectre",
+  "NotAllowed": "Vous n’êtes pas autorisé à utiliser la commande « {0} »",
+  "NoValidTargets": "Non valides spectate cibles",
+  "PlayersOnly": "Commande « {0} » seulement peut être utilisée que par un joueur",
+  "SpectateSelf": "Vous ne pouvez pas vous-même spectate",
+  "SpectateStart": "Commencé spectature {0}",
+  "SpectateStop": "Cessé de spectature {0}",
+  "TargetIsSpectating": "{0} est spectature actuellement un autre joueur"
+}

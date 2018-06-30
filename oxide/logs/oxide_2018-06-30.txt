@@ -1,0 +1,1437 @@
+07:49 [Info] Loading Oxide Core v2.0.3834...
+07:49 [Info] Loading extensions...
+07:49 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+07:49 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+07:49 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+07:49 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+07:49 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+07:49 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+07:49 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+07:49 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+07:49 [Info] Using Covalence provider for game 'Rust'
+07:49 [Info] Loading plugins...
+07:49 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+07:49 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+07:49 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+07:49 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+07:49 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+07:49 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+07:49 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+07:49 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+07:49 [Info] AdminRadar, AutoFuel, BetterChat, BetterLoot, BuildingGrades, BuildingOwners, Clans, ClothingSlots, CopyPaste, CraftingController, DCProtect, DeathNotes, EasyAirdrop, Economics, EnhancedHammer, FriendlyFire, GameTipAPI, GatherManager, GUIAnnouncements, HeliControl, HitIcon, Hotel, HumanNPC, ImageLibrary, ItemSkinRandomizer, Loyalty, LustyMap, NoEscape, NTeleportation, PathFinding, QuickSmelt, RainOfFire, RemoverTool, ServerInfo, SignArtist, Skins, StackSizeController, SurveyInfo, TimeOfDay, UpdateChecker, Waypoints, WipeProtection, ZLevelsRemastered and ZoneManager were compiled successfully in 3672ms
+07:49 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+07:49 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+07:49 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+07:49 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+07:49 [Warning] [Admin Radar] Creating a new configuration file
+07:49 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+07:49 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+07:49 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+07:49 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+07:49 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+07:49 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+07:49 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+07:49 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+07:49 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+07:49 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+07:49 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+07:49 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+07:49 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+07:49 [Info] [Economics] Saving balances for players...
+07:49 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+07:49 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+07:49 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+07:49 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+07:49 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+07:49 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+07:49 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+07:49 [Info] [HitIcon] Creating a new configuration file!
+07:49 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+07:49 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+07:49 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+07:49 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+07:49 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+07:49 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+07:49 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+07:49 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+07:49 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+07:49 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+07:49 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+07:49 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+07:49 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+07:49 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+07:49 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+07:49 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+07:49 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+07:49 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+07:49 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+07:49 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+07:49 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+07:49 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+07:49 [Info] [ZoneManager] Loaded 0 Zone definitions
+07:49 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+07:49 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+07:51 [Info] Updating Rust:IO ...
+07:51 [Warning] AdminRadar has replaced the 'radar' chat command previously registered by AdminRadar
+07:51 [Info] [Admin Radar] Took 19.9944ms to cache 502/4045 entities
+07:51 [Info] Rust:IO: Update complete
+07:51 [Info] [BetterLoot] No Blacklist found, creating new file...
+07:51 [Info] [BetterLoot] HeliCrate > table not found, option disabled by 'includeHeliCrate' > Creating a new file.
+07:51 [Info] [BetterLoot] BradleyCrate > table not found, option disabled by 'includeBradleyCrate' > Creating a new file.
+07:51 [Info] [BetterLoot] SupplyDrop > table not found, option disabled by 'includeSupplyDrop' > Creating a new file.
+07:51 [Info] [BetterLoot] Updating internals ...
+07:51 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+07:51 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+07:51 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 14193ms
+07:51 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 14ms
+07:51 [Info] [GameTipAPI] Starting 0 scheduled tips.
+07:51 [Warning] [HitIcon] Plugin Clans work with HitIcon
+07:51 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 134ms
+07:51 [Info] [LustyMap] [Warning] Validating imagery
+07:51 [Info] [LustyMap] [Warning] Generating the main map
+07:51 [Info] [LustyMap] [Warning] Main map generated successfully!
+07:51 [Info] [LustyMap] [Warning] Generating the mini-map
+07:51 [Info] [LustyMap] [Warning] Mini map generated successfully!
+07:51 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+07:51 [Info] [LustyMap] [Warning] Complex map generated successfully!
+07:51 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 161ms
+07:51 [Info] [BetterLoot] Exported 399 items to 'NamesList'
+07:51 [Info] [BetterLoot] No stacked LootContainer found.
+07:51 [Info] [BetterLoot] Internals have been updated. Populated '66' supported containers.
+07:51 [Info] Unloaded plugin HitIcon v1.5.9 by serezhadelaet
+07:51 [Info] Installing Rust:IO ...
+07:51 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+07:51 [Info] Rust:IO> Creating directories ...
+07:51 [Info] Rust:IO> Applying config ...
+07:51 [Info] Rust:IO> Initializing database ...
+07:51 [Info] Rust:IO> Generating map image (this may take a while) ...
+07:52 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  38552.644ms
+Postprocess  :  1230.465ms
+  Shadows    :   129.441ms
+  FXAA       :  1080.011ms
+Encoding     :    41.579ms
+Other        :    23.977ms
+--------------------------
+Total        :  39848.665ms
+07:52 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+07:52 [Info] Rust:IO> Installed.
+07:52 [Info] Rust:IO> Now ticking
+07:52 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 40231ms [GARBAGE COLLECT]
+07:52 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 6ms [GARBAGE COLLECT]
+07:52 [Warning] [Item Skin Randomizer] Failed to load approved workshop skins... Error 0
+07:52 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+07:53 [Info] Loading Oxide Core v2.0.3834...
+07:53 [Info] Loading extensions...
+07:53 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+07:53 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+07:53 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+07:53 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+07:53 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+07:53 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+07:53 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+07:53 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+07:53 [Info] Using Covalence provider for game 'Rust'
+07:53 [Info] Loading plugins...
+07:53 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+07:53 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+07:53 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+07:53 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+07:53 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+07:53 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+07:53 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+07:53 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+07:53 [Info] AdminRadar, AutoFuel, BetterChat, BetterLoot, BuildingGrades, BuildingOwners, Clans, ClothingSlots, CopyPaste, CraftingController, DCProtect, DeathNotes, EasyAirdrop, Economics, EnhancedHammer, FriendlyFire, GameTipAPI, GatherManager, GUIAnnouncements, HeliControl, HitIcon, Hotel, HumanNPC, ImageLibrary, ItemSkinRandomizer, Loyalty, LustyMap, NoEscape, NTeleportation, PathFinding, QuickSmelt, RainOfFire, RemoverTool, ServerInfo, SignArtist, Skins, StackSizeController, SurveyInfo, TimeOfDay, UpdateChecker, Waypoints, WipeProtection, ZLevelsRemastered and ZoneManager were compiled successfully in 3534ms
+07:53 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+07:53 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+07:53 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+07:53 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+07:53 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+07:53 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+07:53 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+07:53 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+07:53 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+07:53 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+07:53 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+07:53 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+07:53 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+07:53 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+07:53 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+07:53 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+07:53 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+07:53 [Info] [Economics] Saving balances for players...
+07:53 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+07:53 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+07:53 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+07:53 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+07:53 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+07:53 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+07:53 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+07:53 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+07:53 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+07:53 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+07:53 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+07:53 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+07:53 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+07:53 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+07:53 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+07:53 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+07:53 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+07:53 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+07:53 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+07:53 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+07:53 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+07:53 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+07:53 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+07:53 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+07:53 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+07:53 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+07:53 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+07:53 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+07:53 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+07:53 [Info] [ZoneManager] Loaded 0 Zone definitions
+07:53 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+07:53 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+07:54 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+07:54 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+07:54 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+07:54 [Info] PopupNotifications, StartProtection, ImageLibrary and LustyMap were compiled successfully in 340ms
+07:54 [Info] Unloaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+07:54 [Info] Unloaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+07:54 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+07:54 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+07:54 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+07:54 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+07:54 [Info] [StartProtection] No configuration file found, generating...
+07:54 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+07:54 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+07:54 [Info] FurnaceSplitter was compiled successfully in 390ms
+07:54 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+07:54 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+07:55 [Info] Cornucopia was compiled successfully in 353ms
+07:55 [Info] [Cornucopia] New configuration file created.
+07:55 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+07:55 [Warning] BuildingOwners: Wipe detected. Saving last buildingowners data in BuildingOwners_backup
+07:55 [Warning] [WipeProtection] Detected wipe, setting 06/30/2018 07:55:46 as wipe time and 07/01/2018 07:55:46 as time after which raiding is possible
+07:55 [Warning] [StartProtection] Wipe detected, cleared data
+07:55 [Info] Updating Rust:IO ...
+07:55 [Info] [Admin Radar] Took 157.9474ms to cache 8912/22259 entities
+07:55 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 183ms [GARBAGE COLLECT]
+07:55 [Info] Rust:IO: Update complete
+07:56 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+07:56 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+07:56 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+07:56 [Info] [BetterLoot] Updating internals ...
+07:56 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+07:56 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+07:56 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 16087ms
+07:56 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 81ms
+07:56 [Info] [GameTipAPI] Starting 0 scheduled tips.
+07:56 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 234ms
+07:56 [Warning] [HitIcon] Plugin Clans work with HitIcon
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5442396 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 4020845 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 9523585 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5262060 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 6510101 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2164406 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 9765303 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2854635 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 368095 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5596693 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 865880 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2705716 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 7124128 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5937375 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3259778 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 181547 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 8246799 
+07:56 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 601203 
+07:56 [Warning] Calling 'OnServerInitialized' on 'HumanNPC v0.3.18' took 139ms
+07:56 [Warning] [Image Library] Retrieving item skin lists...
+07:56 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 175ms [GARBAGE COLLECT]
+07:56 [Info] [StartProtection] Entry list up to date.
+07:56 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+07:56 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:56 [Info] [LustyMap] [Warning] Validating imagery
+07:56 [Info] [LustyMap] [Warning] Icon images have not been found. Uploading images to file storage
+07:56 [Info] [LustyMap] [Warning] Attempting to contact beancan.io to download your map image!
+07:56 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 213ms
+07:56 [Info] [BetterLoot] Removed 3 stacked LootContainer (out of 1768)
+07:56 [Info] [BetterLoot] Internals have been updated. Populated '1042' supported containers.
+07:56 [Info] Unloaded plugin HitIcon v1.5.9 by serezhadelaet
+07:56 [Info] Installing Rust:IO ...
+07:56 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+07:56 [Info] Rust:IO> Creating directories ...
+07:56 [Info] Rust:IO> Applying config ...
+07:56 [Info] Rust:IO> Initializing database ...
+07:56 [Info] Rust:IO> Map wipe detected, resetting map specific data
+07:56 [Info] Rust:IO> Generating map image (this may take a while) ...
+07:56 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7267.875ms
+Postprocess  :  1424.407ms
+  Shadows    :   128.022ms
+  FXAA       :  1275.469ms
+Encoding     :    50.114ms
+Other        :    10.948ms
+--------------------------
+Total        :  8753.343ms
+07:56 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+07:56 [Info] Rust:IO> Installed.
+07:56 [Info] Rust:IO> Now ticking
+07:56 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 9365ms [GARBAGE COLLECT]
+07:56 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 2ms [GARBAGE COLLECT]
+07:56 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:56 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+07:56 [Info] [LustyMap] [Warning] Map generation successful! Downloading map image to file storage. Please wait!
+07:56 [Info] [LustyMap] [Warning] Attempting to split and store the complex mini-map. This may take a while, please wait!
+07:56 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 1 / 5)
+07:56 [Info] [Image Library] Starting order LustyMap
+07:56 [Warning] [Image Library] Found 1348 item skins. Gathering image URLs
+07:56 [Info] [Image Library] Querying Steam for available workshop items. Please wait for a response from Steam...
+07:56 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+07:56 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: RustIO, BuildingOwners and ClothingSlots
+07:56 [Warning] [Update Checker] Following plugins are outdated:
+
+07:56 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:56 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 2 / 5)
+07:56 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:56 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 3 / 5)
+07:56 [Info] IngameClockGUI was compiled successfully in 2139ms
+07:56 [Info] [Ingame Clock GUI] Default config was saved and loaded!
+07:56 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+07:56 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:56 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 4 / 5)
+07:57 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+07:57 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 5 / 5)
+07:57 [Info] [Image Library] Starting order LustyMap - Map Image
+07:57 [Info] [LustyMap] [Error] The plugin has timed out trying to find the map image to split! Complex map has been disabled
+07:59 [Info] BlueprintManager was compiled successfully in 2036ms
+07:59 [Warning] [Blueprint Manager] Generating new config file...
+07:59 [Warning] [Blueprint Manager] Added field to config: Settings/Default blueprints
+07:59 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+08:01 [Info] Loading Oxide Core v2.0.3834...
+08:01 [Info] Loading extensions...
+08:01 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:01 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:01 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+08:01 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:01 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:01 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+08:01 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:01 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:01 [Info] Using Covalence provider for game 'Rust'
+08:01 [Info] Loading plugins...
+08:01 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+08:01 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:01 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:01 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+08:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+08:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+08:01 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+08:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+08:01 [Info] AdminRadar, AutoFuel, BetterChat, BetterLoot, BlueprintManager, BuildingGrades, BuildingOwners, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, DCProtect, DeathNotes, EasyAirdrop, Economics, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAPI, GatherManager, GUIAnnouncements, HeliControl, HitIcon, Hotel, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, Loyalty, LustyMap, NoEscape, NTeleportation, PathFinding, PopupNotifications, QuickSmelt, RainOfFire, RemoverTool, ServerInfo, SignArtist, Skins, StackSizeController, StartProtection, SurveyInfo, TimeOfDay, UpdateChecker, Waypoints, WipeProtection, ZLevelsRemastered and ZoneManager were compiled successfully in 3603ms
+08:01 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+08:01 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+08:01 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+08:01 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+08:01 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+08:01 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+08:01 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+08:01 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:01 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+08:01 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+08:01 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+08:01 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+08:01 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+08:01 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+08:01 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+08:01 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+08:01 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+08:01 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+08:01 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+08:01 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+08:01 [Info] [Economics] Saving balances for players...
+08:01 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+08:01 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+08:01 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+08:01 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+08:01 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+08:01 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+08:01 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+08:01 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+08:01 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+08:01 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+08:01 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+08:01 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+08:01 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+08:01 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+08:01 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+08:01 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+08:01 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+08:01 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+08:01 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+08:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+08:01 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+08:01 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+08:01 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+08:01 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+08:01 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+08:01 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+08:01 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+08:01 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+08:01 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+08:01 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+08:01 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+08:01 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+08:01 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:01 [Info] [ZoneManager] Loaded 0 Zone definitions
+08:01 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+08:01 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+08:03 [Warning] BuildingOwners: Wipe detected. Saving last buildingowners data in BuildingOwners_backup
+08:03 [Warning] [StartProtection] Wipe detected, cleared data
+08:03 [Warning] [WipeProtection] Detected wipe, setting 06/30/2018 08:03:55 as wipe time and 07/01/2018 08:03:55 as time after which raiding is possible
+08:04 [Info] Updating Rust:IO ...
+08:04 [Info] [Admin Radar] Took 93.9647ms to cache 8892/22284 entities
+08:04 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 125ms
+08:04 [Info] Rust:IO: Update complete
+08:04 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+08:04 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+08:04 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+08:04 [Info] [BetterLoot] Updating internals ...
+08:04 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+08:04 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+08:04 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 14496ms [GARBAGE COLLECT]
+08:04 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 81ms [GARBAGE COLLECT]
+08:04 [Info] [GameTipAPI] Starting 0 scheduled tips.
+08:04 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 241ms
+08:04 [Warning] [HitIcon] Plugin Clans work with HitIcon
+08:04 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+08:04 [Warning] [Image Library] 282 images queued for restoration, 0 images failed
+08:04 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 3998ms
+08:04 [Info] [LustyMap] [Warning] Validating imagery
+08:04 [Info] [LustyMap] [Warning] Icon images have not been found. Uploading images to file storage
+08:04 [Info] [LustyMap] [Warning] Attempting to contact beancan.io to download your map image!
+08:04 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 247ms
+08:04 [Info] [StartProtection] Entry list up to date.
+08:04 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+08:04 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 549443 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 9820697 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 804273 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 1466075 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 7378282 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 4699774 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 975197 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 6733638 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5885426 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5338423 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 8512281 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5591888 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2224644 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3612080 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3299103 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2835376 
+08:04 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 8565816 
+08:04 [Warning] Calling 'OnServerInitialized' on 'HumanNPC v0.3.18' took 133ms
+08:04 [Info] [BetterLoot] Removed 1 stacked LootContainer (out of 1780)
+08:04 [Info] [BetterLoot] Internals have been updated. Populated '1015' supported containers.
+08:04 [Info] Unloaded plugin HitIcon v1.5.9 by serezhadelaet
+08:04 [Info] [Image Library] Starting order Image restoration from previous database
+08:05 [Info] [Image Library] Starting order LustyMap
+08:05 [Info] Installing Rust:IO ...
+08:05 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+08:05 [Info] Rust:IO> Creating directories ...
+08:05 [Info] Rust:IO> Applying config ...
+08:05 [Info] Rust:IO> Initializing database ...
+08:05 [Info] Rust:IO> Generating map image (this may take a while) ...
+08:05 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  5048.578ms
+Postprocess  :  1311.164ms
+  Shadows    :   120.387ms
+  FXAA       :  1169.731ms
+Encoding     :    44.673ms
+Other        :    58.907ms
+--------------------------
+Total        :  6463.322ms
+08:05 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+08:05 [Info] Rust:IO> Installed.
+08:05 [Info] Rust:IO> Now ticking
+08:05 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 6960ms [GARBAGE COLLECT]
+08:05 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 2ms [GARBAGE COLLECT]
+08:05 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+08:05 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: BlueprintManager and BuildingOwners
+08:05 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+08:05 [Warning] [Update Checker] Following plugins are outdated:
+
+08:05 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:05 [Info] [LustyMap] [Warning] Map generation successful! Downloading map image to file storage. Please wait!
+08:05 [Info] [LustyMap] [Warning] Attempting to split and store the complex mini-map. This may take a while, please wait!
+08:05 [Info] [LustyMap] [Warning] Starting complex map split (6x). Please wait!
+08:05 [Info] [LustyMap] [Warning] Starting complex map split (12x). Please wait!
+08:05 [Info] [LustyMap] [Warning] Starting complex map split (26x). Please wait!
+08:05 [Info] [LustyMap] [Warning] Map split was successful!
+08:05 [Info] [LustyMap] [Warning] Waiting for Image Library to finish processing images
+08:05 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:05 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+08:05 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:05 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:05 [Info] [LustyMap] [Warning] Waiting for Image Library to finish processing images
+08:05 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:06 [Info] [Image Library] Starting order LustyMap - Map Image
+08:06 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:06 [Info] [Image Library] Starting order LustyMap - Complex (6)
+08:06 [Info] [Image Library] Starting order LustyMap - Complex (12)
+08:06 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:06 [Info] [LustyMap] [Warning] Waiting for Image Library to finish processing images
+08:06 [Info] [Image Library] Starting order LustyMap - Complex (26)
+08:07 [Info] [LustyMap] [Warning] Generating the main map
+08:07 [Info] [LustyMap] [Warning] Main map generated successfully!
+08:07 [Info] [LustyMap] [Warning] Generating the mini-map
+08:07 [Info] [LustyMap] [Warning] Mini map generated successfully!
+08:07 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+08:07 [Info] [LustyMap] [Warning] Complex map generated successfully!
+08:12 [Info] [Economics] Saving balances for players...
+08:17 [Info] [Economics] Saving balances for players...
+08:19 [Info] [Cornucopia] Deleted 53 stacked loot boxes (out of 804)
+08:19 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+09:03 [Info] Loading Oxide Core v2.0.3834...
+09:03 [Info] Loading extensions...
+09:03 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:03 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:03 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+09:03 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:03 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:03 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+09:03 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:03 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:03 [Info] Using Covalence provider for game 'Rust'
+09:03 [Info] Loading plugins...
+09:03 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+09:03 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:03 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:03 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+09:03 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+09:03 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+09:03 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+09:03 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+09:03 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+09:03 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+09:03 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+09:03 [Info] AdminRadar, AutoFuel, AutomaticAuthorization, BetterChat, BetterLoot, BlueprintManager, BuildingGrades, BuildingOwners, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, EasyAirdrop, Economics, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, Jail, JPipes, LastName, LimitedLadders, LoadingMessages, Loyalty, LustyMap, NoEscape, NoGiveNotices, NoGreen, NTeleportation, PathFinding, PermissionsManager, PlayerDatabase, PlayerManager, PopupNotifications, QuickSmelt, RainOfFire, RemoverTool, ServerInfo, SignArtist, Skins, SmartChatBot, Spawns, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, Waypoints, WipeProtection, ZLevelsRemastered and ZoneManager were compiled successfully in 4086ms
+09:03 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+09:03 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+09:03 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+09:03 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+09:03 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+09:03 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+09:03 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+09:03 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+09:03 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+09:03 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+09:03 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+09:03 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+09:03 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+09:03 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+09:03 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+09:03 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+09:03 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+09:03 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+09:03 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+09:03 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+09:03 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+09:03 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+09:03 [Warning] [Dangerous Treasures] Creating a new configuration file
+09:03 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+09:03 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+09:03 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+09:03 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+09:03 [Info] [Economics] Saving balances for players...
+09:03 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+09:03 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+09:03 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+09:03 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+09:03 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+09:03 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+09:03 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+09:03 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+09:03 [Info] Loaded plugin Hammer Time v1.0.18 by Shady
+09:03 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+09:03 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+09:03 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+09:03 [Warning] [Humanity System] Creating default configuration
+09:03 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+09:03 [Info] [Humanity System] Creating betterchat groups...
+09:03 [Info] [Humanity System] Created betterchat group - Hero
+09:03 [Info] [Humanity System] Created betterchat group - Bandit
+09:03 [Info] [Humanity System] Created betterchat group - Neutral
+09:03 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+09:03 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+09:03 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+09:03 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+09:03 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+09:03 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:03 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+09:03 [Warning] [JPipes] Creating a new configuration file
+09:03 [Info] Loaded plugin JPipes v0.6.4 by TheGreatJ
+09:03 [Info] [LastName] Default config was saved and loaded
+09:03 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+09:03 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+09:03 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+09:03 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+09:03 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+09:03 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+09:03 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+09:03 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+09:03 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+09:03 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+09:03 [Info] [PermissionsManager] Creating a new config file
+09:03 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+09:03 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+09:03 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+09:03 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+09:03 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+09:03 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+09:03 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+09:03 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+09:03 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+09:03 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+09:03 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+09:03 [Info] [Smart Chat Bot] ----------------------------------------------
+09:03 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+09:03 [Info] [Smart Chat Bot] ----------------------------------------------
+09:03 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+09:03 [Info] [Smart Chat Bot] --    0 Timed Messages
+09:03 [Info] [Smart Chat Bot] ----------------------------------------------
+09:03 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+09:03 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+09:03 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+09:03 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+09:03 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+09:03 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+09:03 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+09:03 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+09:03 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+09:03 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+09:03 [Info] [ZoneManager] Loaded 0 Zone definitions
+09:03 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+09:03 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+09:06 [Info] Updating Rust:IO ...
+09:06 [Info] [Admin Radar] Took 35.989ms to cache 2097/17377 entities
+09:06 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 119ms
+09:06 [Info] Rust:IO: Update complete
+09:06 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+09:06 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+09:06 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+09:06 [Info] [BetterLoot] Updating internals ...
+09:06 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+09:06 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+09:06 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 16218ms
+09:06 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 57ms
+09:06 [Warning] DangerousTreasures has replaced the 'dtevent' chat command previously registered by DangerousTreasures
+09:06 [Warning] DangerousTreasures has replaced the 'dtd' chat command previously registered by DangerousTreasures
+09:06 [Warning] DangerousTreasures has replaced the 'dtevent' console command previously registered by DangerousTreasures
+09:06 [Info] [GameTipAPI] Starting 0 scheduled tips.
+09:06 [Warning] [Day/Night Gather] 18
+09:06 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 201ms
+09:06 [Warning] [HitIcon] Plugin Clans work with HitIcon
+09:06 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 244ms
+09:06 [Info] [LustyMap] [Warning] Validating imagery
+09:06 [Info] [LustyMap] [Warning] Generating the main map
+09:06 [Info] [LustyMap] [Warning] Main map generated successfully!
+09:06 [Info] [LustyMap] [Warning] Generating the mini-map
+09:06 [Info] [LustyMap] [Warning] Mini map generated successfully!
+09:06 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+09:06 [Info] [LustyMap] [Warning] Complex map generated successfully!
+09:06 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 745ms
+09:06 [Info] [StartProtection] Entry list up to date.
+09:06 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+09:06 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+09:06 [Warning] Calling 'OnServerInitialized' on 'Jail v4.0.0' took 144ms [GARBAGE COLLECT]
+09:06 [Info] [JPipes] 0 Pipes Loaded
+09:06 [Info] [BetterLoot] No stacked LootContainer found.
+09:06 [Info] [BetterLoot] Internals have been updated. Populated '279' supported containers.
+09:06 [Info] [Dangerous Treasures] Next automated event in 1 hour, 15 minutes, and 53 seconds at 06/30/2018 10:22:45
+09:06 [Info] [Dangerous Treasures] Please view the config if you haven't already.
+09:06 [Info] Unloaded plugin HitIcon v1.5.9 by serezhadelaet
+09:06 [Info] Installing Rust:IO ...
+09:06 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+09:06 [Info] Rust:IO> Creating directories ...
+09:06 [Info] Rust:IO> Applying config ...
+09:06 [Info] Rust:IO> Initializing database ...
+09:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+09:23 [Info] Loading Oxide Core v2.0.3834...
+09:23 [Info] Loading extensions...
+09:23 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:23 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:23 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+09:23 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:23 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:23 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+09:23 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:23 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:23 [Info] Using Covalence provider for game 'Rust'
+09:23 [Info] Loading plugins...
+09:23 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+09:23 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:23 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:23 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+09:23 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+09:23 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+09:23 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+09:23 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+09:23 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+09:23 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+09:23 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+09:23 [Info] AdminRadar, AutoFuel, AutomaticAuthorization, BetterChat, BetterLoot, BlueprintManager, BuildingGrades, BuildingOwners, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, EasyAirdrop, Economics, EmptyLowFPS, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, Jail, JPipes, LastName, LimitedLadders, LoadingMessages, Loyalty, LustyMap, NoEscape, NoGiveNotices, NoGreen, NTeleportation, PathFinding, PermissionsManager, PlayerDatabase, PlayerManager, PopupNotifications, ProtocolKickInfo, ProximityAlert, QuickSmelt, RainOfFire, RemoverTool, RespawnProtection, SaveAnnouncer, ServerInfo, SignArtist, SignTracker, Skins, SmartChatBot, Spawns, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, WaterLimits, Waypoints, WipeProtection, ZLevelsRemastered, ZoneCommand and ZoneManager were compiled successfully in 4095ms
+09:23 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+09:23 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+09:23 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+09:23 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+09:23 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+09:23 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+09:23 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+09:23 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+09:23 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+09:23 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+09:23 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+09:23 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+09:23 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+09:23 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+09:23 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+09:23 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+09:23 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+09:23 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+09:23 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+09:23 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+09:23 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+09:23 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+09:23 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+09:23 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+09:23 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+09:23 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+09:23 [Info] [Economics] Saving balances for players...
+09:23 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+09:23 [Info] [EmptyLowFPS] Server is empty setting fps.limit to 30
+09:23 [Info] [EmptyLowFPS] Server is empty setting server.tickrate to 10
+09:23 [Info] Loaded plugin EmptyLowFPS v0.0.4 by Dezito
+09:23 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+09:23 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+09:23 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+09:23 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+09:23 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+09:23 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+09:23 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+09:23 [Info] Loaded plugin Hammer Time v1.0.18 by Shady
+09:23 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+09:23 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+09:23 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+09:23 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+09:23 [Info] [Humanity System] Betterchat groups already created...
+09:23 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+09:23 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+09:23 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+09:23 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+09:23 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+09:23 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:23 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+09:23 [Info] Loaded plugin JPipes v0.6.4 by TheGreatJ
+09:23 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+09:23 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+09:23 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+09:23 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+09:23 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+09:23 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+09:23 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+09:23 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+09:23 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+09:23 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+09:23 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+09:23 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+09:23 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+09:23 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+09:23 [Info] Loaded plugin ProtocolKickInfo v1.0.3 by Fujikura
+09:23 [Info] Loaded plugin ProximityAlert v0.2.3 by k1lly0u
+09:23 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+09:23 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+09:23 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+09:23 [Warning] [RespawnProtection] Creating a new configuration file
+09:23 [Info] Loaded plugin RespawnProtection v1.2.8 by sami37
+09:23 [Warning] [Save Announcer] Creating a new configuration file.
+09:23 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+09:23 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+09:23 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+09:23 [Info] Loaded plugin SignTracker v2.0.1 by Wulf/lukespragg
+09:23 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+09:23 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+09:23 [Info] [Smart Chat Bot] ----------------------------------------------
+09:23 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+09:23 [Info] [Smart Chat Bot] ----------------------------------------------
+09:23 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+09:23 [Info] [Smart Chat Bot] --    0 Timed Messages
+09:23 [Info] [Smart Chat Bot] ----------------------------------------------
+09:23 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+09:23 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+09:23 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+09:23 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+09:23 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+09:23 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+09:23 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+09:23 [Warning] [Water Limits] Could not load a valid configuration file, creating a new configuration file at D:\RSM\server\RustDev\oxide\config\WaterLimits.json
+09:23 [Info] Loaded plugin Water Limits v3.1.0 by Wulf/lukespragg
+09:23 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+09:23 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+09:23 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+09:23 [Info] Loaded plugin ZoneCommand v0.1.1 by deer_SWAG
+09:23 [Info] [ZoneManager] Loaded 0 Zone definitions
+09:23 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+09:23 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+09:26 [Info] Updating Rust:IO ...
+09:26 [Info] [Admin Radar] Took 44.9839ms to cache 2097/17377 entities
+09:26 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 138ms
+09:26 [Info] Rust:IO: Update complete
+09:26 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+09:26 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+09:26 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+09:26 [Info] [BetterLoot] Updating internals ...
+09:26 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+09:26 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+09:26 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 15535ms
+09:26 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 59ms
+09:26 [Info] [GameTipAPI] Starting 0 scheduled tips.
+09:26 [Warning] [Day/Night Gather] 18
+09:26 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 199ms
+09:26 [Warning] [HitIcon] Plugin Clans work with HitIcon
+09:26 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 294ms
+09:26 [Info] [LustyMap] [Warning] Validating imagery
+09:26 [Info] [LustyMap] [Warning] Generating the main map
+09:26 [Info] [LustyMap] [Warning] Main map generated successfully!
+09:26 [Info] [LustyMap] [Warning] Generating the mini-map
+09:26 [Info] [LustyMap] [Warning] Mini map generated successfully!
+09:26 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+09:26 [Info] [LustyMap] [Warning] Complex map generated successfully!
+09:26 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 662ms
+09:26 [Info] [StartProtection] Entry list up to date.
+09:26 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+09:26 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+09:26 [Info] [JPipes] 0 Pipes Loaded
+09:26 [Warning] [ProximityAlert] FriendsAPI could not be found! Unable to use friends feature
+09:26 [Error] ZoneCommand v0.1.1: You need to install ZoneManager or RectZones to use this plugin
+09:26 [Info] [BetterLoot] No stacked LootContainer found.
+09:26 [Info] [BetterLoot] Internals have been updated. Populated '279' supported containers.
+09:26 [Info] Installing Rust:IO ...
+09:26 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+09:26 [Info] Rust:IO> Creating directories ...
+09:26 [Info] Rust:IO> Applying config ...
+09:26 [Info] Rust:IO> Initializing database ...
+09:26 [Info] Rust:IO> Generating map image (this may take a while) ...
+09:27 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  33731.332ms
+Postprocess  :  1205.077ms
+  Shadows    :   134.156ms
+  FXAA       :  1049.834ms
+Encoding     :    64.342ms
+Other        :    44.807ms
+--------------------------
+Total        :  35045.558ms
+09:27 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+09:27 [Info] Rust:IO> Installed.
+09:27 [Info] Rust:IO> Now ticking
+09:27 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 35360ms [GARBAGE COLLECT]
+09:27 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 1ms [GARBAGE COLLECT]
+09:27 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+09:27 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+09:27 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+09:27 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+09:27 [Warning] [Update Checker] Following plugins are outdated:
+
+09:28 [Info] Loading Oxide Core v2.0.3834...
+09:28 [Info] Loading extensions...
+09:28 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:28 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:28 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+09:28 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:28 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:28 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+09:28 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:28 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:28 [Info] Using Covalence provider for game 'Rust'
+09:28 [Info] Loading plugins...
+09:28 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+09:28 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:28 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+09:28 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+09:28 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+09:28 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+09:28 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+09:28 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+09:28 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+09:28 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+09:28 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+09:28 [Info] AdminRadar, AutoFuel, AutomaticAuthorization, BetterChat, BetterLoot, BlueprintManager, BuildingGrades, BuildingOwners, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, EasyAirdrop, Economics, EmptyLowFPS, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, Jail, JPipes, LastName, LimitedLadders, LoadingMessages, Loyalty, LustyMap, NoEscape, NoGiveNotices, NoGreen, NTeleportation, PathFinding, PermissionsManager, PlayerDatabase, PlayerManager, PopupNotifications, ProtocolKickInfo, ProximityAlert, QuickSmelt, RainOfFire, RemoverTool, RespawnProtection, SaveAnnouncer, ServerInfo, SignArtist, SignTracker, Skins, SmartChatBot, Spawns, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, WaterLimits, Waypoints, WipeProtection, ZLevelsRemastered, ZoneCommand and ZoneManager were compiled successfully in 4187ms
+09:28 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+09:28 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+09:28 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+09:28 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+09:28 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+09:28 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+09:28 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+09:28 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+09:28 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+09:28 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+09:28 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+09:28 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+09:28 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+09:28 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+09:28 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+09:28 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+09:28 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+09:28 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+09:28 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+09:28 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+09:28 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+09:28 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+09:28 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+09:28 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+09:28 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+09:28 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+09:28 [Info] [Economics] Saving balances for players...
+09:28 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+09:28 [Info] [EmptyLowFPS] Server is empty setting fps.limit to 30
+09:28 [Info] [EmptyLowFPS] Server is empty setting server.tickrate to 10
+09:28 [Info] Loaded plugin EmptyLowFPS v0.0.4 by Dezito
+09:28 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+09:28 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+09:28 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+09:28 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+09:28 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+09:28 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+09:28 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+09:28 [Info] Loaded plugin Hammer Time v1.0.18 by Shady
+09:28 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+09:28 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+09:28 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+09:28 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+09:28 [Info] [Humanity System] Betterchat groups already created...
+09:28 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+09:28 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+09:28 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+09:28 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+09:28 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+09:28 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+09:28 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+09:28 [Info] Loaded plugin JPipes v0.6.4 by TheGreatJ
+09:28 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+09:28 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+09:28 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+09:28 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+09:28 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+09:28 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+09:28 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+09:28 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+09:28 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+09:28 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+09:28 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+09:28 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+09:28 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+09:28 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+09:28 [Info] Loaded plugin ProtocolKickInfo v1.0.3 by Fujikura
+09:28 [Info] Loaded plugin ProximityAlert v0.2.3 by k1lly0u
+09:28 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+09:28 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+09:28 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+09:28 [Info] Loaded plugin RespawnProtection v1.2.8 by sami37
+09:28 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+09:28 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+09:28 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+09:28 [Info] Loaded plugin SignTracker v2.0.1 by Wulf/lukespragg
+09:28 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+09:28 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+09:28 [Info] [Smart Chat Bot] ----------------------------------------------
+09:28 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+09:28 [Info] [Smart Chat Bot] ----------------------------------------------
+09:28 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+09:28 [Info] [Smart Chat Bot] --    0 Timed Messages
+09:28 [Info] [Smart Chat Bot] ----------------------------------------------
+09:28 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+09:28 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+09:28 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+09:28 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+09:28 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+09:28 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+09:28 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+09:28 [Info] Loaded plugin Water Limits v3.1.0 by Wulf/lukespragg
+09:28 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+09:28 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+09:28 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+09:28 [Info] Loaded plugin ZoneCommand v0.1.1 by deer_SWAG
+09:28 [Info] [ZoneManager] Loaded 0 Zone definitions
+09:28 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+09:28 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+09:31 [Info] Updating Rust:IO ...
+09:31 [Info] [Admin Radar] Took 34.9901ms to cache 2097/17377 entities
+09:31 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 179ms
+09:31 [Info] Rust:IO: Update complete
+09:31 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+09:31 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+09:31 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+09:31 [Info] [BetterLoot] Updating internals ...
+09:31 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+09:31 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+09:31 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 16086ms
+09:31 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 57ms
+09:31 [Info] [GameTipAPI] Starting 0 scheduled tips.
+09:31 [Warning] [Day/Night Gather] 18
+09:31 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 199ms
+09:31 [Warning] [HitIcon] Plugin Clans work with HitIcon
+09:31 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 242ms
+09:31 [Info] [LustyMap] [Warning] Validating imagery
+09:31 [Info] [LustyMap] [Warning] Generating the main map
+09:31 [Info] [LustyMap] [Warning] Main map generated successfully!
+09:31 [Info] [LustyMap] [Warning] Generating the mini-map
+09:31 [Info] [LustyMap] [Warning] Mini map generated successfully!
+09:31 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+09:31 [Info] [LustyMap] [Warning] Complex map generated successfully!
+09:31 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 666ms
+09:31 [Info] [StartProtection] Entry list up to date.
+09:31 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+09:31 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+09:31 [Info] [JPipes] 0 Pipes Loaded
+09:31 [Warning] [ProximityAlert] FriendsAPI could not be found! Unable to use friends feature
+09:31 [Error] ZoneCommand v0.1.1: You need to install ZoneManager or RectZones to use this plugin
+09:31 [Info] [BetterLoot] No stacked LootContainer found.
+09:31 [Info] [BetterLoot] Internals have been updated. Populated '279' supported containers.
+09:31 [Info] Installing Rust:IO ...
+09:31 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+09:31 [Info] Rust:IO> Creating directories ...
+09:31 [Info] Rust:IO> Applying config ...
+09:31 [Info] Rust:IO> Initializing database ...
+09:31 [Info] Rust:IO> Generating map image (this may take a while) ...
+09:32 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  58609.057ms
+Postprocess  :  1329.180ms
+  Shadows    :   144.908ms
+  FXAA       :  1162.923ms
+Encoding     :    63.475ms
+Other        :    48.026ms
+--------------------------
+Total        :  60049.738ms
+09:32 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+09:32 [Info] Rust:IO> Installed.
+09:32 [Info] Rust:IO> Now ticking
+09:32 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 60431ms [GARBAGE COLLECT]
+09:32 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+09:32 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+09:32 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+09:32 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+09:33 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+09:33 [Warning] [Update Checker] Following plugins are outdated:
+
+09:37 [Info] [Economics] Saving balances for players...
+09:37 [Info] [JPipes] 0 pipes saved
+09:37 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 118ms
+09:42 [Info] [Economics] Saving balances for players...
+09:42 [Info] [JPipes] 0 pipes saved
+09:46 [Info] [Cornucopia] Deleted 51 stacked loot boxes (out of 643)
+09:46 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+09:47 [Info] [Economics] Saving balances for players...
+09:47 [Info] [JPipes] 0 pipes saved
+09:52 [Info] [Economics] Saving balances for players...
+09:52 [Info] [JPipes] 0 pipes saved
+09:57 [Info] [Economics] Saving balances for players...
+09:57 [Info] [JPipes] 0 pipes saved
+09:57 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 131ms
+10:01 [Info] [Cornucopia] Deleted 2 stacked loot boxes (out of 778)
+10:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+10:02 [Info] [Economics] Saving balances for players...
+10:02 [Info] [JPipes] 0 pipes saved
+10:07 [Info] [Economics] Saving balances for players...
+10:07 [Info] [JPipes] 0 pipes saved
+10:12 [Info] [Economics] Saving balances for players...
+10:12 [Info] [JPipes] 0 pipes saved
+10:16 [Info] [Cornucopia] Deleted 60 stacked loot boxes (out of 873)
+10:16 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+10:17 [Info] [Economics] Saving balances for players...
+10:17 [Info] [JPipes] 0 pipes saved
+10:18 [Info] AutoClientCommands was compiled successfully in 2054ms
+10:18 [Info] Loaded plugin Automatic Client Commands v0.1.1 by k1lly0u
+10:20 [Info] WipeKits was compiled successfully in 2257ms
+10:20 [Warning] [Wipe Kits] Loading default configuration file...
+10:20 [Info] Loaded plugin Wipe Kits v1.1.2 by Ryan
+10:20 [Info] RespawnMessages was compiled successfully in 299ms
+10:20 [Info] Loaded plugin RespawnMessages v0.2.1 by Kappasaurus
+10:22 [Info] [Dangerous Treasures] R5: M92 Pistol (1), 5.56 Rifle Ammo (60), MP5A4 (1), Metal Chest Plate (1), Bucket Helmet (1), Assault Rifle (1)
+10:22 [Info] [Dangerous Treasures] Event at R5
+10:22 [Info] [Dangerous Treasures] Next automated event in 1 hour, 50 minutes, and 18 seconds at 06/30/2018 12:12:21
+10:22 [Info] [Economics] Saving balances for players...
+10:22 [Info] [JPipes] 0 pipes saved
+10:25 [Info] EditTool was compiled successfully in 2236ms
+10:25 [Info] Loaded plugin EditTool v1.0.2 by Jake Rich
+10:27 [Info] DragableCorpses was compiled successfully in 2134ms
+10:27 [Info] Loaded plugin DragableCorpses v1.0.1 by Jake_Rich
+10:27 [Info] [Economics] Saving balances for players...
+10:27 [Info] [JPipes] 0 pipes saved
+10:29 [Info] Npctp, HumanNPC and PathFinding were compiled successfully in 2250ms
+10:29 [Warning] Calling 'Unload' on 'HumanNPC v0.3.18' took 121ms
+10:29 [Info] Unloaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+10:29 [Info] Unloaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+10:29 [Warning] Npctp plugin is waiting for requirements to be loaded: HumanNPC and PathFinding
+10:29 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+10:29 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+10:29 [Warning] Npctp plugin is waiting for requirements to be loaded: HumanNPC
+10:29 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+10:29 [Info] [Npctp] Creating a new configuration file!
+10:29 [Info] [Npctp] Thanks for using NPCTP drop me a line if you need anything added.
+10:29 [Info] Loaded plugin Npctp v2.4.4 by Ts3hosting
+10:29 [Info] ServerRewards was compiled successfully in 269ms
+10:29 [Warning] [ServerRewards] All UI elements have been successfully generated!
+10:29 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.65' took 7573ms
+10:29 [Info] Loaded plugin ServerRewards v0.4.65 by k1lly0u
+10:29 [Info] Kits was compiled successfully in 376ms
+10:29 [Warning] Calling 'OnPluginLoaded' on 'ServerRewards v0.4.65' took average 7573ms
+10:29 [Info] Loaded plugin Kits v3.2.92 by Reneb
+10:31 [Error] Error while compiling: AutoCrafter.cs(895,21): error CS0117: `BuildingManager' does not contain a definition for `DecayEntities'
+10:31 [Info] [Cornucopia] Deleted 3 stacked loot boxes (out of 912)
+10:31 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+10:32 [Info] PlayerTracker and MedicRevive were compiled successfully in 2085ms
+10:32 [Info] Loaded plugin PlayerTracker v1.0.1 by redBDGR
+10:32 [Info] Loaded plugin MedicRevive v0.1.0 by k1lly0u
+10:32 [Info] PlayerBlinder was compiled successfully in 2090ms
+10:32 [Info] Loaded plugin Player Blinder v1.0.5 by redBDGR
+10:33 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: DragableCorpses and AutoClientCommands
+10:33 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: WipeKits
+10:33 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+10:33 [Warning] [Update Checker] Following plugins are outdated:
+
+10:37 [Info] [Economics] Saving balances for players...
+10:37 [Info] [JPipes] 0 pipes saved
+10:38 [Info] VIPTrial was compiled successfully in 1946ms
+10:38 [Info] [VIP Trial] Nobody needs to be removed.
+10:38 [Info] Loaded plugin VIP Trial v1.3.5 by Maik8
+10:42 [Info] [Economics] Saving balances for players...
+10:42 [Info] [JPipes] 0 pipes saved
+10:46 [Info] [Cornucopia] Deleted 65 stacked loot boxes (out of 931)
+10:46 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+10:47 [Info] [Economics] Saving balances for players...
+10:47 [Info] [JPipes] 0 pipes saved
+10:52 [Warning] Calling 'OnEntitySpawned' on 'AdminRadar v4.3.0' took 113ms [GARBAGE COLLECT]
+10:52 [Info] [Economics] Saving balances for players...
+10:52 [Info] [JPipes] 0 pipes saved
+10:57 [Info] [Economics] Saving balances for players...
+10:57 [Info] [JPipes] 0 pipes saved
+11:01 [Info] [Cornucopia] Deleted 6 stacked loot boxes (out of 950)
+11:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+11:02 [Info] [Economics] Saving balances for players...
+11:02 [Info] [JPipes] 0 pipes saved
+11:02 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 158ms
+11:12 [Info] [Economics] Saving balances for players...
+11:12 [Info] [JPipes] 0 pipes saved
+11:16 [Info] [Cornucopia] Deleted 56 stacked loot boxes (out of 982)
+11:16 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+11:17 [Info] [Economics] Saving balances for players...
+11:17 [Info] [JPipes] 0 pipes saved
+11:22 [Info] [Economics] Saving balances for players...
+11:22 [Info] [JPipes] 0 pipes saved
+11:27 [Info] [Economics] Saving balances for players...
+11:27 [Info] [JPipes] 0 pipes saved
+11:27 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 169ms
+11:31 [Info] [Cornucopia] Deleted 3 stacked loot boxes (out of 976)
+11:31 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+11:32 [Info] [Economics] Saving balances for players...
+11:32 [Info] [JPipes] 0 pipes saved
+11:33 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: DragableCorpses and MedicRevive
+11:33 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: PlayerBlinder
+11:33 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+11:33 [Warning] [Update Checker] Following plugins are outdated:
+
+11:37 [Info] [Economics] Saving balances for players...
+11:37 [Info] [JPipes] 0 pipes saved
+11:42 [Info] [Economics] Saving balances for players...
+11:42 [Info] [JPipes] 0 pipes saved
+11:46 [Info] [Cornucopia] Deleted 59 stacked loot boxes (out of 947)
+11:46 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+11:47 [Info] [Economics] Saving balances for players...
+11:47 [Info] [JPipes] 0 pipes saved
+11:52 [Info] [Economics] Saving balances for players...
+11:52 [Info] [JPipes] 0 pipes saved
+11:57 [Info] [Economics] Saving balances for players...
+11:57 [Info] [JPipes] 0 pipes saved
+12:01 [Info] [Cornucopia] Deleted 15 stacked loot boxes (out of 953)
+12:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+12:02 [Info] [Economics] Saving balances for players...
+12:02 [Info] [JPipes] 0 pipes saved
+12:12 [Info] [Economics] Saving balances for players...
+12:12 [Info] [JPipes] 0 pipes saved
+12:12 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 167ms
+12:13 [Info] [Dangerous Treasures] Q10: Bolt Action Rifle (1), HV 5.56 Rifle Ammo (60), 5.56 Rifle Ammo (60), Bucket Helmet (1), Mining Quarry (1), M92 Pistol (1)
+12:13 [Info] [Dangerous Treasures] Event at Q10
+12:13 [Info] [Dangerous Treasures] Next automated event in 1 hour, 7 minutes, and 50 seconds at 06/30/2018 13:21:06
+12:16 [Info] [Cornucopia] Deleted 56 stacked loot boxes (out of 952)
+12:16 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+12:17 [Info] [Economics] Saving balances for players...
+12:17 [Info] [JPipes] 0 pipes saved
+12:22 [Info] [Economics] Saving balances for players...
+12:22 [Info] [JPipes] 0 pipes saved
+12:27 [Info] [Economics] Saving balances for players...
+12:27 [Info] [JPipes] 0 pipes saved
+12:31 [Info] [Cornucopia] Deleted 22 stacked loot boxes (out of 973)
+12:31 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+12:32 [Info] [Economics] Saving balances for players...
+12:32 [Info] [JPipes] 0 pipes saved
+12:33 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+12:33 [Warning] [Update Checker] Following plugins are outdated:
+
+21:42 [Info] Loading Oxide Core v2.0.3834...
+21:42 [Info] Loading extensions...
+21:42 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+21:42 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+21:42 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+21:42 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+21:42 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+21:42 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+21:42 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+21:42 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+21:42 [Info] Using Covalence provider for game 'Rust'
+21:42 [Info] Loading plugins...
+21:42 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+21:42 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+21:42 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+21:42 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+21:42 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+21:42 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:42 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:42 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+21:42 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+21:42 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+21:42 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+21:42 [Info] AdminRadar, AdvanceGather, AutoClientCommands, AutoFuel, AutomaticAuthorization, BarrelPoints, BetterChat, BetterLoot, Bloodtrail, BlueprintManager, BuildingGrades, BuildingOwners, ChatCleaner, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, CupboardMessages, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, DragableCorpses, EasyAirdrop, Economics, EditTool, EmptyLowFPS, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAnnouncements, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HelpText, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, ItemTranslations, Jail, JPipes, Jtech, Kits, LastName, LimitedLadders, LoadingMessages, Logger, Loyalty, LustyMap, MagicDescription, MedicRevive, NoEscape, NoGiveNotices, NoGreen, Npctp, NTeleportation, PathFinding, PermissionsManager, PlantDrop, PlayerBlinder, PlayerDatabase, PlayerManager, PlayerTracker, PopupNotifications, ProtocolKickInfo, ProximityAlert, PurifierConfig, QuickSmelt, QuickSort, RainOfFire, RemoverTool, RespawnMessages, RespawnProtection, SaveAnnouncer, ServerAnnouncer, ServerInfo, ServerRewards, SignArtist, SignTracker, Skins, SmartChatBot, Spawns, Spectate, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, VIPTrial, WaterLimits, Waypoints, WipeKits, WipeProtection, ZLevelsRemastered, ZoneCommand and ZoneManager were compiled successfully in 4435ms
+21:42 [Error] Error while compiling: AutoCrafter.cs(895,21): error CS0117: `BuildingManager' does not contain a definition for `DecayEntities'
+21:42 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+21:42 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+21:42 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+21:42 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:42 [Warning] Npctp plugin is waiting for requirements to be loaded: HumanNPC and PathFinding
+21:42 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+21:42 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+21:42 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+21:42 [Info] Loaded plugin AdvanceGather v1.0.0 by Hougan
+21:42 [Info] Loaded plugin Automatic Client Commands v0.1.1 by k1lly0u
+21:42 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+21:42 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+21:42 [Error] [Barrel Points] Economics.cs was not found! Disabling the economics setting until you reload me
+21:42 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
+21:42 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+21:42 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+21:42 [Info] Loaded plugin Bloodtrail v1.0.3 by hoppel
+21:42 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+21:42 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+21:42 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+21:42 [Info] Loaded plugin ChatCleaner v0.4.0 by Wulf/lukespragg
+21:42 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+21:42 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+21:42 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+21:42 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+21:42 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+21:42 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+21:42 [Info] Loaded plugin Cupboard Messages v1.1.0 by Ryan
+21:42 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+21:42 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+21:42 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+21:42 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+21:42 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+21:42 [Info] Loaded plugin DragableCorpses v1.0.1 by Jake_Rich
+21:42 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+21:42 [Info] [Economics] Saving balances for players...
+21:42 [Info] [Barrel Points] A plugin dependency was detected as being loaded / reloaded... I will automatically reload myself incase of any changes in 3 seconds
+21:42 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+21:42 [Info] Loaded plugin EditTool v1.0.2 by Jake Rich
+21:42 [Info] [EmptyLowFPS] Server is empty setting fps.limit to 30
+21:42 [Info] [EmptyLowFPS] Server is empty setting server.tickrate to 10
+21:42 [Info] Loaded plugin EmptyLowFPS v0.0.4 by Dezito
+21:42 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+21:42 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+21:42 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+21:42 [Info] Loaded plugin Game Tip Announcements v1.0.2 by redBDGR
+21:42 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+21:42 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+21:42 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+21:42 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+21:42 [Info] Loaded plugin Hammer Time v1.0.18 by Shady
+21:42 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+21:42 [Info] Loaded plugin HelpText v2.0.5 by Calytic/Domestos
+21:42 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+21:42 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+21:42 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+21:42 [Info] [Humanity System] Betterchat groups already created...
+21:42 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+21:42 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+21:42 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+21:42 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+21:42 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+21:42 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+21:42 [Info] Loaded plugin ItemTranslations v1.0.0 by Ryan
+21:42 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+21:42 [Info] Loaded plugin JPipes v0.6.4 by TheGreatJ
+21:42 [Info] Loaded plugin Jtech v0.0.0 by TheGreatJ
+21:42 [Info] Loaded plugin Kits v3.2.92 by Reneb
+21:42 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+21:42 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+21:42 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+21:42 [Warning] [Logger] Could not load a valid configuration file, creating a new configuration file at D:\RSM\server\RustDev\oxide\config\Logger.json
+21:42 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+21:42 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+21:42 [Warning] [Magic Description] Could not load a valid configuration file, creating a new configuration file at D:\RSM\server\RustDev\oxide\config\MagicDescription.json
+21:42 [Info] Loaded plugin Magic Description v1.4.0 by Wulf/lukespragg
+21:42 [Info] Loaded plugin MedicRevive v0.1.0 by k1lly0u
+21:42 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+21:42 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+21:42 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+21:42 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+21:42 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+21:42 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+21:42 [Warning] [Npctp] Spawns Database could not be found you only can use command NPC or random spawns!
+21:42 [Info] [Npctp] Thanks for using NPCTP drop me a line if you need anything added.
+21:42 [Info] Loaded plugin Npctp v2.4.4 by Ts3hosting
+21:42 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+21:42 [Info] Loaded plugin Plant Drop v1.0.0 by Travis Butts
+21:42 [Info] Loaded plugin Player Blinder v1.0.5 by redBDGR
+21:42 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+21:42 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+21:42 [Info] Loaded plugin PlayerTracker v1.0.1 by redBDGR
+21:42 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+21:42 [Info] Loaded plugin ProtocolKickInfo v1.0.3 by Fujikura
+21:42 [Info] Loaded plugin ProximityAlert v0.2.3 by k1lly0u
+21:42 [Info] Loaded plugin Purifier Config v1.0.4 by Shady
+21:42 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+21:42 [Warning] [Quick Sort] Could not load a valid configuration file, creating a new configuration file at D:\RSM\server\RustDev\oxide\config\QuickSort.json
+21:42 [Info] Loaded plugin Quick Sort v1.2.1 by Wulf/lukespragg
+21:42 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+21:42 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+21:42 [Info] Loaded plugin RespawnMessages v0.2.1 by Kappasaurus
+21:42 [Info] Loaded plugin RespawnProtection v1.2.8 by sami37
+21:42 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+21:42 [Warning] [Server Announcer] Generating new configuration file
+21:42 [Warning] [Server Announcer] Added field to config: General/ConsoleName
+21:42 [Info] Loaded plugin Server Announcer v1.0.6 by austinv900
+21:42 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+21:42 [Info] Loaded plugin ServerRewards v0.4.65 by k1lly0u
+21:42 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+21:42 [Info] Loaded plugin SignTracker v2.0.1 by Wulf/lukespragg
+21:42 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+21:42 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+21:42 [Info] [Smart Chat Bot] ----------------------------------------------
+21:42 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+21:42 [Info] [Smart Chat Bot] ----------------------------------------------
+21:42 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+21:42 [Info] [Smart Chat Bot] --    0 Timed Messages
+21:42 [Info] [Smart Chat Bot] ----------------------------------------------
+21:42 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+21:42 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+21:42 [Info] Loaded plugin Spectate v0.4.3 by Wulf/lukespragg
+21:42 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+21:42 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+21:42 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+21:42 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+21:42 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+21:42 [Info] [VIP Trial] Nobody needs to be removed.
+21:42 [Info] Loaded plugin VIP Trial v1.3.5 by Maik8
+21:42 [Info] Loaded plugin Water Limits v3.1.0 by Wulf/lukespragg
+21:42 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+21:42 [Info] Loaded plugin Wipe Kits v1.1.2 by Ryan
+21:42 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+21:42 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+21:42 [Info] Loaded plugin ZoneCommand v0.1.1 by deer_SWAG
+21:42 [Info] [ZoneManager] Loaded 0 Zone definitions
+21:42 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+21:42 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+21:42 [Info] BarrelPoints was compiled successfully in 288ms
+21:42 [Info] Unloaded plugin Barrel Points v2.0.7 by redBDGR
+21:42 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
+21:46 [Info] Updating Rust:IO ...
+21:46 [Info] [Admin Radar] Took 34.9868ms to cache 2098/18715 entities
+21:46 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.3.0' took 198ms
+21:46 [Info] Rust:IO: Update complete
+21:46 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+21:46 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+21:46 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+21:46 [Info] [BetterLoot] Updating internals ...
+21:46 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+21:46 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+21:46 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 16153ms
+21:46 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 60ms
+21:46 [Warning] Calling 'OnServerInitialized' on 'DangerousTreasures v1.1.4' took 145ms
+21:46 [Info] [GameTipAPI] Starting 0 scheduled tips.
+21:46 [Warning] [Day/Night Gather] 18
+21:46 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 218ms
+21:46 [Warning] [HitIcon] Plugin Clans work with HitIcon
+21:46 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 275ms
+21:46 [Info] [LustyMap] [Warning] Validating imagery
+21:46 [Info] [LustyMap] [Warning] Generating the main map
+21:46 [Info] [LustyMap] [Warning] Main map generated successfully!
+21:46 [Info] [LustyMap] [Warning] Generating the mini-map
+21:46 [Info] [LustyMap] [Warning] Mini map generated successfully!
+21:46 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+21:46 [Info] [LustyMap] [Warning] Complex map generated successfully!
+21:46 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 690ms
+21:46 [Info] [StartProtection] Entry list up to date.
+21:46 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+21:46 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+21:46 [Info] [JPipes] 0 Pipes Loaded
+21:46 [Info] [JtechCore] Registered Deployable: [Jtech] Transport Pipe
+21:46 [Info] [JtechCore] Registered Deployable: [Jtech] Assembler
+21:46 [Info] [JtechCore] --- 0 JDeployable(s) Loaded ---
+21:46 [Info] [JtechCore] -------------------------------
+21:46 [Info] [Magic Description] Server description updated: 
+magic.description: "Powered by Oxide {magic.version} for Rust {magic.version protocol}"
+21:46 [Warning] [ProximityAlert] FriendsAPI could not be found! Unable to use friends feature
+21:46 [Warning] [ServerRewards] Waiting for ImageLibrary to finish image processing!
+21:46 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.65' took 314ms
+21:46 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.4' took 104ms
+21:46 [Error] ZoneCommand v0.1.1: You need to install ZoneManager or RectZones to use this plugin
+21:46 [Info] [BetterLoot] No stacked LootContainer found.
+21:46 [Info] [BetterLoot] Internals have been updated. Populated '279' supported containers.
+21:46 [Info] [Dangerous Treasures] W17: 12 Gauge Slug (40), Pistol Bullet (40), Mining Quarry (1), 5.56 Rifle Ammo (60), HV Pistol Ammo (40), High Quality Metal (150)
+21:46 [Info] [Dangerous Treasures] Event at W17
+21:46 [Info] [Dangerous Treasures] Next automated event in 1 hour, 18 minutes, and 21 seconds at 06/30/2018 23:04:49
+21:46 [Info] Installing Rust:IO ...
+21:46 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+21:46 [Info] Rust:IO> Creating directories ...
+21:46 [Info] Rust:IO> Applying config ...
+21:46 [Info] Rust:IO> Initializing database ...
+21:46 [Info] Rust:IO> Generating map image (this may take a while) ...
+21:46 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  12567.318ms
+Postprocess  :  1146.789ms
+  Shadows    :   133.040ms
+  FXAA       :   992.612ms
+Encoding     :   126.893ms
+Other        :    89.500ms
+--------------------------
+Total        :  13930.500ms
+21:46 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+21:46 [Info] Rust:IO> Installed.
+21:46 [Info] Rust:IO> Now ticking
+21:46 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 14210ms [GARBAGE COLLECT]
+21:46 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 1ms [GARBAGE COLLECT]
+21:46 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+21:46 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+21:46 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+21:47 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: RustIO, AdvanceGather, AutoClientCommands, BlueprintManager, BuildingOwners and ClothingSlots
+21:47 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: PlayerBlinder, WipeKits and Spectate
+21:47 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+21:47 [Warning] [Update Checker] Following plugins are outdated:
+# Jtech | Installed: 0.0.0 - Latest: 0.6.4 | https://oxidemod.org/plugins/2402/
+21:47 [Warning] [ServerRewards] All UI elements have been successfully generated!

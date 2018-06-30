@@ -1,0 +1,10 @@
+{
+  "Default Respawn Protection": 60,
+  "Disable protection on building attack": true,
+  "Godmode Enabled": true,
+  "Money withdraw per hit": 1,
+  "Money withdraw per kill": 100,
+  "Punish fresh respawn kill (Enabled)": false,
+  "PVE Protection": false,
+  "PVE Respawn Protection": 60
+}

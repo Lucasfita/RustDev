@@ -1,0 +1,11 @@
+{
+  "NoPermission": "Error, you lack permission.",
+  "IncorrectArguments": "Error, incorrect arguments. Try [#ADD8E6]/blueprint help.[/#]",
+  "NoPlayerFound": "Error, no player found by the name of [#ADD8E6]{0}[/#].",
+  "MultiplePlayersFound": "Error, multiple players found by the name of [#ADD8E6]{0}[/#].",
+  "ItemUnlocked": "Sucessfully unlocked item [#ADD8E6]{0}[/#] for [#ADD8E6]{1}[/#].",
+  "InvalidItem": "Error, no item found by the name of [#ADD8E6]{0}[/#], are you providing a short name?",
+  "AllUnlocked": "Sucessfully unlocked all items for [#ADD8E6]{0}[/#].",
+  "AllReset": "Sucessfully reset all items for [#ADD8E6]{0}[/#].",
+  "Help": "Help\n[#ADD8E6]/blueprint <unlock> <player> <shortName>[/#]\n[#ADD8E6]/blueprint <unlockall|resetall> <player>[/#]"
+}

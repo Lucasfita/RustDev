@@ -1,0 +1,18 @@
+{
+  "Blind UI": {
+    "Colour": "0 0 0 1"
+  },
+  "Image UI": {
+    "AnchorMAX": "1 1",
+    "AnchorMIN": "0 0",
+    "URL": ""
+  },
+  "Settings": {
+    "ImageOverlay Enabled": false,
+    "Use Text": true
+  },
+  "Text UI": {
+    "Default Text": "You have been blinded by an admin!",
+    "Size": 20
+  }
+}

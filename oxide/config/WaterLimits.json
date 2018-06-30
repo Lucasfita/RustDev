@@ -1,0 +1,9 @@
+{
+  "Hurt player on contact (true/false)": false,
+  "Hurt player on disconnect (true/false)": true,
+  "Hurt player over time (true/false)": true,
+  "Kill player on contact (true/false)": false,
+  "Kill player on disconnect (true/false)": false,
+  "Damage player amount (1 - 500)": 1,
+  "Damage player every (seconds)": 10
+}

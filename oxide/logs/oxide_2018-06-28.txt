@@ -1,0 +1,351 @@
+17:25 [Info] Loading Oxide Core v2.0.3834...
+17:25 [Info] Loading extensions...
+17:25 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:25 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:25 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+17:25 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:25 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:25 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+17:25 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:25 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:25 [Info] Using Covalence provider for game 'Rust'
+17:25 [Info] Loading plugins...
+17:25 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+17:25 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:25 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:27 [Info] Loading Oxide Core v2.0.3834...
+17:27 [Info] Loading extensions...
+17:27 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:27 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:27 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+17:27 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:27 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:27 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+17:27 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:27 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:27 [Info] Using Covalence provider for game 'Rust'
+17:27 [Info] Loading plugins...
+17:27 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+17:27 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:27 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:28 [Info] Updating Rust:IO ...
+17:28 [Info] Rust:IO: Update complete
+17:28 [Info] Installing Rust:IO ...
+17:28 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+17:28 [Info] Rust:IO> Creating directories ...
+17:28 [Info] Rust:IO> Applying config ...
+17:28 [Info] Rust:IO> Initializing database ...
+17:28 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:28 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  1140.592ms
+Postprocess  :  1179.563ms
+  Shadows    :   128.086ms
+  FXAA       :  1029.992ms
+Encoding     :    35.247ms
+Other        :    30.027ms
+--------------------------
+Total        :  2385.430ms
+17:28 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+17:28 [Info] Rust:IO> Installed.
+17:28 [Info] Rust:IO> Now ticking
+17:28 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 4272ms [GARBAGE COLLECT]
+17:28 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 64ms [GARBAGE COLLECT]
+17:28 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+17:29 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 250ms
+17:36 [Info] Loading Oxide Core v2.0.3834...
+17:36 [Info] Loading extensions...
+17:36 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:36 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:36 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+17:36 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:36 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:36 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+17:36 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:36 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:36 [Info] Using Covalence provider for game 'Rust'
+17:36 [Info] Loading plugins...
+17:36 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+17:36 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:36 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:37 [Info] Updating Rust:IO ...
+17:37 [Info] Rust:IO: Update complete
+17:37 [Info] Installing Rust:IO ...
+17:37 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+17:37 [Info] Rust:IO> Creating directories ...
+17:37 [Info] Rust:IO> Applying config ...
+17:37 [Info] Rust:IO> Initializing database ...
+17:37 [Info] Rust:IO> Map wipe detected, resetting map specific data
+17:37 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:37 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  3297.391ms
+Postprocess  :  1221.344ms
+  Shadows    :   118.920ms
+  FXAA       :  1081.627ms
+Encoding     :    33.587ms
+Other        :    13.576ms
+--------------------------
+Total        :  4565.898ms
+17:37 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+17:37 [Info] Rust:IO> Installed.
+17:37 [Info] Rust:IO> Now ticking
+17:37 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 5074ms [GARBAGE COLLECT]
+17:37 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+17:37 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 5106ms
+17:50 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 549ms
+18:14 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+18:14 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:14 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:14 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+18:14 [Info] BetterChat, Clans, CopyPaste, DCProtect, Economics, GameTipAPI, HumanNPC, ImageLibrary, LustyMap, PathFinding and Waypoints were compiled successfully in 2533ms
+18:14 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+18:14 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+18:14 [Warning] [Better Chat] Generating new config file...
+18:14 [Warning] [Better Chat] Added field to config: Maximal Titles
+18:14 [Warning] [Better Chat] Added field to config: Maximal Characters Per Message
+18:14 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+18:14 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+18:14 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+18:14 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+18:14 [Warning] [Economics] Could not load a valid configuration file, creating a new configuration file at D:\RSM\server\RustDev\oxide\config\Economics.json
+18:14 [Info] [Economics] Saving balances for players...
+18:14 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+18:14 [Info] [GameTipAPI] Starting 0 scheduled tips.
+18:14 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+18:14 [Warning] [Image Library] Retrieving item skin lists...
+18:14 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+18:14 [Info] [LustyMap] [Warning] Validating imagery
+18:14 [Info] [LustyMap] [Warning] Icon images have not been found. Uploading images to file storage
+18:14 [Info] [LustyMap] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+18:14 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+18:14 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 6995898 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 7392561 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3022866 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 1999829 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5767792 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3599128 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 1387305 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 1378917 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 3992542 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 689832 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 581784 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 548964 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 5403278 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 7722144 
+18:14 [Warning] [HumanNPC] Detected a HumanNPC with no data or disabled, deleting him: 2711699 
+18:14 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+18:14 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+18:14 [Info] [Image Library] Starting order LustyMap
+18:14 [Warning] [Image Library] Found 1338 item skins. Gathering image URLs
+18:14 [Info] [Image Library] Querying Steam for available workshop items. Please wait for a response from Steam...
+19:56 [Info] Loading Oxide Core v2.0.3834...
+19:56 [Info] Loading extensions...
+19:56 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:56 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:56 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+19:56 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:56 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+19:56 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+19:56 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+19:56 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+19:56 [Info] Using Covalence provider for game 'Rust'
+19:56 [Info] Loading plugins...
+19:56 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+19:56 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+19:56 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:56 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+19:56 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:56 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:56 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+19:56 [Info] BetterChat, Clans, CopyPaste, DCProtect, Economics, GameTipAPI, HumanNPC, ImageLibrary, LustyMap, PathFinding and Waypoints were compiled successfully in 2245ms
+19:56 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+19:56 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+19:56 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+19:56 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+19:56 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+19:56 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+19:56 [Info] [Economics] Saving balances for players...
+19:56 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+19:56 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+19:56 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+19:56 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+19:56 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+19:56 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+19:56 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+19:58 [Info] Updating Rust:IO ...
+19:58 [Info] [GameTipAPI] Starting 0 scheduled tips.
+19:58 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 131ms
+19:58 [Info] [LustyMap] [Warning] Validating imagery
+19:58 [Info] [LustyMap] [Warning] Icon images have not been found. Uploading images to file storage
+19:58 [Info] [LustyMap] [Warning] Attempting to contact beancan.io to download your map image!
+19:58 [Info] [Image Library] Starting order LustyMap
+19:58 [Info] Rust:IO: Update complete
+19:58 [Info] Installing Rust:IO ...
+19:58 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+19:58 [Info] Rust:IO> Creating directories ...
+19:58 [Info] Rust:IO> Applying config ...
+19:58 [Info] Rust:IO> Initializing database ...
+19:58 [Info] Rust:IO> Generating map image (this may take a while) ...
+19:58 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  3362.074ms
+Postprocess  :  1201.385ms
+  Shadows    :   123.148ms
+  FXAA       :  1057.127ms
+Encoding     :    33.395ms
+Other        :     8.343ms
+--------------------------
+Total        :  4605.197ms
+19:58 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+19:58 [Info] Rust:IO> Installed.
+19:58 [Info] Rust:IO> Now ticking
+19:58 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 4757ms [GARBAGE COLLECT]
+19:58 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:58 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+19:58 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 4777ms
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+19:59 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+20:00 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+20:00 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+20:00 [Info] [LustyMap] [Warning] Your map is still being generated. Checking again in 10 seconds
+20:00 [Info] [LustyMap] [Warning] Map generation successful! Downloading map image to file storage. Please wait!
+20:00 [Info] [LustyMap] [Warning] Attempting to split and store the complex mini-map. This may take a while, please wait!
+20:00 [Info] [LustyMap] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 1 / 5)
+20:00 [Info] [Image Library] Starting order LustyMap - Map Image
+20:01 [Info] [LustyMap] [Warning] Starting complex map split (6x). Please wait!
+20:01 [Info] [LustyMap] [Warning] Starting complex map split (12x). Please wait!
+20:01 [Info] [LustyMap] [Warning] Starting complex map split (26x). Please wait!
+20:01 [Info] [LustyMap] [Warning] Map split was successful!
+20:01 [Info] [LustyMap] [Warning] Waiting for Image Library to finish processing images
+20:01 [Info] [Image Library] Starting order LustyMap - Complex (6)
+20:01 [Info] [Image Library] Starting order LustyMap - Complex (12)
+20:01 [Info] [Image Library] Starting order LustyMap - Complex (26)
+20:03 [Info] [LustyMap] [Warning] Generating the main map
+20:03 [Info] [LustyMap] [Warning] Main map generated successfully!
+20:03 [Info] [LustyMap] [Warning] Generating the mini-map
+20:03 [Info] [LustyMap] [Warning] Mini map generated successfully!
+20:03 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+20:03 [Info] [LustyMap] [Warning] Complex map generated successfully!
+20:05 [Info] [Economics] Saving balances for players...
+20:10 [Info] [Economics] Saving balances for players...
+20:15 [Info] [Economics] Saving balances for players...
+20:20 [Info] [Economics] Saving balances for players...
+20:25 [Info] [Economics] Saving balances for players...
+20:29 [Info] SurveyInfo was compiled successfully in 1912ms
+20:29 [Info] [Survey Info] NEW configuration file created.
+20:29 [Info] [Survey Info] Configuration file UPDATED.
+20:29 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+20:30 [Info] [Economics] Saving balances for players...
+20:35 [Info] [Economics] Saving balances for players...
+20:38 [Info] WipeProtection was compiled successfully in 1923ms
+20:38 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+20:40 [Info] DeathNotes was compiled successfully in 2023ms
+20:40 [Warning] [Death Notes] Generating new configuration file...
+20:40 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+20:40 [Info] [Economics] Saving balances for players...
+20:44 [Info] ZoneManager was compiled successfully in 2026ms
+20:44 [Info] [ZoneManager] Loaded 0 Zone definitions
+20:44 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+20:44 [Info] Hotel and ZoneManager were compiled successfully in 254ms
+20:44 [Info] Unloaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+20:44 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+20:44 [Info] [ZoneManager] Loaded 0 Zone definitions
+20:44 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+20:44 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+20:45 [Info] [Economics] Saving balances for players...
+20:50 [Info] [Economics] Saving balances for players...
+20:55 [Info] HeliControl was compiled successfully in 2024ms
+20:55 [Info] [HeliControl] No weapons data found, creating new file...
+20:55 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 137ms
+20:55 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+20:55 [Info] [Economics] Saving balances for players...
+20:56 [Info] ItemSkinRandomizer was compiled successfully in 157ms
+20:56 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+20:56 [Info] Unloaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+20:56 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+20:56 [Info] [Item Skin Randomizer] Loaded 1330 approved workshop skins.
+20:56 [Info] [Item Skin Randomizer] Loaded 1330 approved workshop skins.
+20:58 [Info] Loyalty was compiled successfully in 1984ms
+20:58 [Warning] [Loyalty] Creating a new configuration file for Loyalty
+20:58 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+21:00 [Info] [Economics] Saving balances for players...
+21:05 [Info] [Economics] Saving balances for players...
+21:10 [Info] [Economics] Saving balances for players...
+21:15 [Info] [Economics] Saving balances for players...
+21:19 [Info] UpdateChecker was compiled successfully in 1982ms
+21:19 [Warning] [Update Checker] Generating new config file...
+21:19 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+21:19 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: RustIO
+21:19 [Warning] [Update Checker] Following plugins are outdated:
+
+21:21 [Info] [Economics] Saving balances for players...
+21:26 [Info] [Economics] Saving balances for players...
+21:31 [Info] [Economics] Saving balances for players...
+21:36 [Info] [Economics] Saving balances for players...
+21:41 [Info] [Economics] Saving balances for players...
+21:46 [Info] [Economics] Saving balances for players...
+21:51 [Info] [Economics] Saving balances for players...
+21:56 [Info] [Economics] Saving balances for players...
+22:01 [Info] [Economics] Saving balances for players...
+22:06 [Info] [Economics] Saving balances for players...
+22:07 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 1222ms
+22:07 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 1226ms
+22:09 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 592ms
+22:09 [Info] [Better Chat] [Player] Enzo Vissentini: r
+22:09 [Warning] Calling 'OnUserChat' on 'BetterChat v5.0.19' took 185ms
+22:11 [Info] [Economics] Saving balances for players...
+22:12 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 103ms
+22:12 [Info] [Death Notes] Enzo Vissentini couldn't run away from the Wolf.
+22:12 [Warning] [DCProtect] Player Disconnected. Adding Player 76561197990020059|Dasilva Diego to protection list.
+22:13 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 213ms
+22:16 [Info] [Economics] Saving balances for players...
+22:17 [Warning] [DCProtect] Timer Complete. Removing Player: 76561197990020059|Dasilva Diego.
+22:19 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: RustIO
+22:19 [Warning] [Update Checker] Following plugins are outdated:
+
+22:21 [Info] [Economics] Saving balances for players...
+22:21 [Warning] [DCProtect] Player Disconnected. Adding Player 76561197989068900|Enzo Vissentini to protection list.
+22:26 [Info] [Economics] Saving balances for players...
+22:26 [Warning] [DCProtect] Timer Complete. Removing Player: 76561197989068900|Enzo Vissentini.
+22:31 [Info] [Economics] Saving balances for players...
+22:32 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 118ms
+22:32 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 132ms
+22:32 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 135ms
+22:32 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 127ms
+22:32 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 115ms
+22:36 [Info] [Economics] Saving balances for players...
+22:41 [Info] [Economics] Saving balances for players...
+22:46 [Info] [Economics] Saving balances for players...
+22:51 [Info] [Economics] Saving balances for players...
+22:54 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 101ms
+23:01 [Info] [Economics] Saving balances for players...
+23:06 [Info] [Economics] Saving balances for players...
+23:11 [Info] [Economics] Saving balances for players...
+23:12 [Info] QuickSmelt was compiled successfully in 3524ms
+23:12 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+23:13 [Warning] [DCProtect] Player Disconnected. Adding Player 76561197990020059|Dasilva Diego to protection list.
+23:16 [Info] [Economics] Saving balances for players...
+23:18 [Warning] [DCProtect] Timer Complete. Removing Player: 76561197990020059|Dasilva Diego.
+23:19 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: RustIO
+23:19 [Warning] [Update Checker] Following plugins are outdated:
+
+23:21 [Info] [Economics] Saving balances for players...
+23:25 [Info] ClothingSlots was compiled successfully in 2137ms
+23:25 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+23:26 [Info] [Economics] Saving balances for players...
+23:28 [Info] AutoFuel was compiled successfully in 1933ms
+23:28 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+23:31 [Info] [Economics] Saving balances for players...
+23:36 [Info] [Economics] Saving balances for players...
+23:41 [Info] [Economics] Saving balances for players...
+23:46 [Info] [Economics] Saving balances for players...
+23:51 [Info] [Economics] Saving balances for players...
+23:54 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+23:56 [Info] [Economics] Saving balances for players...

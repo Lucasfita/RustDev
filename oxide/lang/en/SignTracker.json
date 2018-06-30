@@ -1,0 +1,6 @@
+{
+  "LastUpdated": "Sign was last updated by {0} ({2}) on {1}",
+  "NoInformation": "No information available for this sign",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "SignUpdated": "Sign {0} by {1} updated on {2} by {3} ({4})"
+}

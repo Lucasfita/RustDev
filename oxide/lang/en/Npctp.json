@@ -1,0 +1,23 @@
+{
+  "title": "<color=orange>Npc</color> : ",
+  "cdTime": "You must wait another {0} minutes and some seconds before using me again",
+  "noperm": "You do not have permissions to talk to me!",
+  "notenabled": "Sorry i am not enabled!",
+  "nomoney": "Sorry you need {0} to talk to me!",
+  "charged": "Thanks i only took {0} from you!",
+  "npcCommand": "I just ran a Command!",
+  "npcadd": "Added npcID {0} to datafile and not enabled edit NpcTP_Data .",
+  "npcadds": "Added npcID {0} with spawnfile {1} to datafile and enabled edit NpcTP_Data for more options.",
+  "npcerror": "error example /npctp_add <npcID> <spawnfile> or /npctcp_add <npcID>",
+  "nopermcmd": "You do not have permissions to use this command!",
+  "commandyesno": "This will cost you ",
+  "commandyesno1": " do you want to pay?",
+  "notfound": "The npc was not found check npcID",
+  "npchelp": "Error: use /npctp <npcID>",
+  "DeadCmd": "Sorry you can not kill me again that fast. Wait {0} seconds.",
+  "doorerror": "error example /npctp_door <npcID>",
+  "DoorIsOpen": "The Door is already open.",
+  "DoorNotFound": "The Door Was Not Found!",
+  "DoorMessage": "I Just opened the door for you.",
+  "chargedItem": "Thanks i only took {0} {1} from you!"
+}

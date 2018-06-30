@@ -1,0 +1,20 @@
+{
+  "KillNoPerms": {
+    "NpcFollowUntellDead": false,
+    "OnFireDamage": 10,
+    "OnFireTime": 10,
+    "SetOnFire": false,
+    "UseGunToKill": true
+  },
+  "KillSleepPlayer": {
+    "SleepKillDamage": 10
+  },
+  "SETTINGS": {
+    "AutoCloseDoors": true,
+    "AutoCloseTime": 15,
+    "DoorOpenMessage": true,
+    "useEconomics": false,
+    "useItem": false,
+    "useRewards": false
+  }
+}

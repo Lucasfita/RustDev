@@ -1,0 +1,5 @@
+{
+  "Clean chat on connect (true/false)": true,
+  "Show chat cleaned message (true/false)": true,
+  "Show welcome message (true/false)": true
+}

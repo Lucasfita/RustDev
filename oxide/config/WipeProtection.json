@@ -1,0 +1,6 @@
+{
+  "Broadcast to chat when raid block has ended": true,
+  "Message admins on connection with info on when the raid block is ending": true,
+  "Refund explosives": true,
+  "Wipe protection time (hours)": 24.0
+}

@@ -1,0 +1,6 @@
+{
+  "LastUpdated": "Muestra la última actualización por {0} ({2}) en {1}",
+  "NoInformation": "No hay información disponible para este signo",
+  "NotAllowed": "No se permite utilizar el comando '{0}'",
+  "SignUpdated": "Firmar {0} {1} {2} actualizada por {3} ({4})"
+}

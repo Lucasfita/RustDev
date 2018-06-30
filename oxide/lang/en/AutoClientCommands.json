@@ -1,0 +1,5 @@
+{
+  "addSuccess": "You have successfully added a new automatic client command: {0}",
+  "remSuccess": "You have successfully remove the automatic client command: {0}",
+  "noFind": "Unable to find the command: {0}"
+}

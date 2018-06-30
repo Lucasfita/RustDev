@@ -1,0 +1,11 @@
+{
+  "Arrow Settings": {
+    "Arrow Head Size": 0.5,
+    "Default Display Length": 120.0
+  },
+  "Settings": {
+    "Position Interval Time": 2.0,
+    "Remove Entries after x seconds": 600.0,
+    "Track All Players": false
+  }
+}

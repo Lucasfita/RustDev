@@ -1,0 +1,10 @@
+{
+  "CommandSpectate": "espectador",
+  "NotAllowed": "No se permite utilizar el comando '{0}'",
+  "NoValidTargets": "No válido espectador objetivos",
+  "PlayersOnly": "Comando '{0}' solo puede ser usado por un jugador",
+  "SpectateSelf": "Usted no puede sí mismo espectador",
+  "SpectateStart": "Comenzó a observar {0}",
+  "SpectateStop": "Dejado de ver {0}",
+  "TargetIsSpectating": "{0} está actualmente tenemos otro jugador"
+}

@@ -1,0 +1,6 @@
+{
+  "warning": "<color=#cc0000>Caution!</color> There are players nearby!",
+  "clear": "<color=#ffdb19>Clear!</color>",
+  "active": "You have activated ProximityAlert",
+  "deactive": "You have deactivated ProximityAlert"
+}
