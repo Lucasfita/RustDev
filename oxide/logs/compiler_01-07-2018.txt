@@ -12,10 +12,6 @@ GUIAnnouncements.cs(833,14): warning CS0114: `Oxide.Plugins.GUIAnnouncements.Loa
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
 HumanitySystem.cs(26,14): warning CS0114: `Oxide.Plugins.HumanitySystem.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
-JPipes.cs(2279,22): warning CS0114: `Oxide.Plugins.JPipes.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
-D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
-JPipes.cs(2029,23): warning CS0108: `Oxide.Plugins.JPipes.jPipeSegChildLights.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)' hides inherited member `Oxide.Plugins.JPipes.jPipeSegChild.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)'. Use the new keyword if hiding was intended
-JPipes.cs(2021,32): (Location of the symbol related to previous warning)
 LastName.cs(48,8): warning CS0114: `Oxide.Plugins.LastName.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
 ProtocolKickInfo.cs(20,8): warning CS0114: `Oxide.Plugins.ProtocolKickInfo.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
@@ -43,10 +39,8 @@ EditTool.cs(2260,29): warning CS0472: The result of comparing value type `UnityE
 EmptyLowFPS.cs(82,17): warning CS0472: The result of comparing value type `int' with null is always `true'
 EmptyLowFPS.cs(85,17): warning CS0472: The result of comparing value type `int' with null is always `true'
 EmptyLowFPS.cs(85,13): warning CS0162: Unreachable code detected
-HammerTime.cs(228,17): warning CS0472: The result of comparing value type `InvokeAction' with null is always `true'
 IngameClockGUI.cs(26,9): warning CS0108: `Oxide.Plugins.IngameClockGUI.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
 D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
-JPipes.cs(279,6): warning CS0162: Unreachable code detected
 LastName.cs(28,9): warning CS0108: `Oxide.Plugins.LastName.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
 D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
 Loyalty.cs(43,22): warning CS0108: `Oxide.Plugins.Loyalty.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
@@ -79,10 +73,6 @@ GUIAnnouncements.cs(833,14): warning CS0114: `Oxide.Plugins.GUIAnnouncements.Loa
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
 HumanitySystem.cs(26,14): warning CS0114: `Oxide.Plugins.HumanitySystem.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
-JPipes.cs(2279,22): warning CS0114: `Oxide.Plugins.JPipes.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
-D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
-JPipes.cs(2029,23): warning CS0108: `Oxide.Plugins.JPipes.jPipeSegChildLights.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)' hides inherited member `Oxide.Plugins.JPipes.jPipeSegChild.Attach(BaseEntity, Oxide.Plugins.JPipes.jPipe)'. Use the new keyword if hiding was intended
-JPipes.cs(2021,32): (Location of the symbol related to previous warning)
 LastName.cs(48,8): warning CS0114: `Oxide.Plugins.LastName.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
 D:\RSM\Oxide.Core.dll (Location of the symbol related to previous warning)
 ProtocolKickInfo.cs(20,8): warning CS0114: `Oxide.Plugins.ProtocolKickInfo.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
@@ -117,7 +107,6 @@ EmptyLowFPS.cs(82,17): warning CS0472: The result of comparing value type `int' 
 EmptyLowFPS.cs(85,17): warning CS0472: The result of comparing value type `int' with null is always `true'
 EmptyLowFPS.cs(85,13): warning CS0162: Unreachable code detected
 FurnaceSplitter.cs(340,27): warning CS0219: The variable `originalContainer' is assigned but its value is never used
-HammerTime.cs(228,17): warning CS0472: The result of comparing value type `InvokeAction' with null is always `true'
 HeliControl.cs(917,17): warning CS0219: The variable `callTarget' is assigned but its value is never used
 HeliControl.cs(918,17): warning CS0219: The variable `callSelf' is assigned but its value is never used
 HeliControl.cs(1081,17): warning CS0219: The variable `newHelis' is assigned but its value is never used
@@ -128,8 +117,6 @@ Hotel.cs(522,20): warning CS0219: The variable `zonename' is assigned but its va
 IngameClockGUI.cs(26,9): warning CS0108: `Oxide.Plugins.IngameClockGUI.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
 D:\RSM\Oxide.Rust.dll (Location of the symbol related to previous warning)
 Jail.cs(982,17): warning CS0219: The variable `success' is assigned but its value is never used
-JPipes.cs(279,6): warning CS0162: Unreachable code detected
-JPipes.cs(2298,44): warning CS0219: The variable `levels' is assigned but its value is never used
 Jtech.cs(3444,11): warning CS0219: The variable `flowpipe' is assigned but its value is never used
 Jtech.cs(3478,11): warning CS0219: The variable `infobg' is assigned but its value is never used
 LastName.cs(28,9): warning CS0108: `Oxide.Plugins.LastName.Player' hides inherited member `Oxide.Plugins.RustPlugin.Player'. Use the new keyword if hiding was intended
@@ -192,20 +179,6 @@ Hotel.cs(359,24): warning CS0649: Field `Oxide.Plugins.Hotel.HotelData.price' is
 HumanNPC.cs(44,30): warning CS0169: The private field `Oxide.Plugins.HumanNPC.Waypoints' is never used
 ImageLibrary.cs(980,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.ImageAssets.isLoading' is assigned but its value is never used
 IngameClockGUI.cs(134,11): warning CS0414: The private field `Oxide.Plugins.IngameClockGUI.updateTimer' is assigned but its value is never used
-JPipes.cs(28,30): warning CS0414: The private field `Oxide.Plugins.JPipes.blue' is assigned but its value is never used
-JPipes.cs(29,30): warning CS0414: The private field `Oxide.Plugins.JPipes.orange' is assigned but its value is never used
-JPipes.cs(2262,29): warning CS0414: The private field `Oxide.Plugins.JPipes.drawflowarrows' is assigned but its value is never used
-JPipes.cs(2263,29): warning CS0414: The private field `Oxide.Plugins.JPipes.animatearrows' is assigned but its value is never used
-JPipes.cs(802,25): warning CS0414: The private field `Oxide.Plugins.JPipes.jPipe.lookingatstash' is assigned but its value is never used
-JPipes.cs(1463,28): warning CS0169: The private field `Oxide.Plugins.JPipes.jSyncBox.pipeplugin' is never used
-JPipes.cs(1465,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.id' is never assigned to, and will always have its default value `0'
-JPipes.cs(1468,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.ownerid' is never assigned to, and will always have its default value `0'
-JPipes.cs(1469,27): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBox.ownername' is never assigned to, and will always have its default value `null'
-JPipes.cs(2451,25): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.s' is never assigned to, and will always have its default value `0'
-JPipes.cs(2452,25): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.d' is never assigned to, and will always have its default value `0'
-JPipes.cs(2453,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.h' is never assigned to, and will always have its default value `0'
-JPipes.cs(2454,26): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.o' is never assigned to, and will always have its default value `0'
-JPipes.cs(2455,27): warning CS0649: Field `Oxide.Plugins.JPipes.jSyncBoxData.on' is never assigned to, and will always have its default value `null'
 Jtech.cs(1051,45): warning CS0414: The private field `Oxide.Plugins.JtechCore.JDeployable.containers' is assigned but its value is never used
 Jtech.cs(1918,16): warning CS0169: The private field `Oxide.Plugins.JtechCore.UserInfo.isHoldingPlaceholder' is never used
 Jtech.cs(1930,16): warning CS0414: The private field `Oxide.Plugins.JtechCore.UserInfo.isMenuOpen' is assigned but its value is never used

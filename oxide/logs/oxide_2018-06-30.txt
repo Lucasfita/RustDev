@@ -1435,3 +1435,127 @@ If this keeps happening, please contact the developer.
 21:47 [Warning] [Update Checker] Following plugins are outdated:
 # Jtech | Installed: 0.0.0 - Latest: 0.6.4 | https://oxidemod.org/plugins/2402/
 21:47 [Warning] [ServerRewards] All UI elements have been successfully generated!
+21:51 [Info] [Economics] Saving balances for players...
+21:51 [Info] [JPipes] 0 pipes saved
+21:51 [Warning] Calling 'OnServerSave' on 'JPipes v0.6.4' took 144ms
+21:51 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+21:51 [Info] [JtechCore] ------------------------------
+21:56 [Error] Could not load plugin 'disabled\JPipes' (no plugin found with that file name)
+21:56 [Info] [JPipes] 0 pipes saved
+21:56 [Warning] Calling 'Unload' on 'JPipes v0.6.4' took 171ms
+21:56 [Info] Unloaded plugin JPipes v0.6.4 by TheGreatJ
+21:57 [Info] [Economics] Saving balances for players...
+21:57 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+21:57 [Info] [JtechCore] ------------------------------
+21:57 [Error] Could not load plugin 'ZoneManager (1)' (no plugin found with that file name)
+21:57 [Info] ZoneManager and Hotel were compiled successfully in 2314ms
+21:57 [Info] Unloaded plugin Hotel v1.1.10 by FireStorm78
+21:57 [Info] Unloaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+21:57 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+21:57 [Info] [ZoneManager] Loaded 0 Zone definitions
+21:57 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+21:57 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+21:58 [Info] Checking for updates... This may take a few seconds. Please be patient.
+21:59 [Info] Following plugins do not have a release version, and therefore cannot be checked for updates: Spectate and WipeKits
+21:59 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+21:59 [Info] Following plugins are outdated:
+
+22:01 [Info] [Cornucopia] Deleted 53 stacked loot boxes (out of 638)
+22:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+22:02 [Info] [Economics] Saving balances for players...
+22:02 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:02 [Info] [JtechCore] ------------------------------
+22:07 [Info] [Economics] Saving balances for players...
+22:07 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:07 [Info] [JtechCore] ------------------------------
+22:07 [Warning] Calling 'OnServerSave' on 'Jtech v0.0.0' took 323ms
+22:12 [Info] [Economics] Saving balances for players...
+22:12 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:12 [Info] [JtechCore] ------------------------------
+22:12 [Warning] Calling 'OnServerSave' on 'Jtech v0.0.0' took 134ms
+22:16 [Info] [Cornucopia] Deleted 2 stacked loot boxes (out of 780)
+22:16 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+22:16 [Warning] Calling 'CreatePopupNotification' on 'PopupNotifications v0.2.0' took 376ms
+22:17 [Info] [Economics] Saving balances for players...
+22:17 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:17 [Info] [JtechCore] ------------------------------
+22:17 [Warning] Calling 'OnServerSave' on 'Jtech v0.0.0' took 181ms
+22:19 [Warning] Calling 'OnTick' on 'DayNightGather v1.0.5' took 139ms
+22:22 [Info] [Economics] Saving balances for players...
+22:22 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:22 [Info] [JtechCore] ------------------------------
+22:27 [Info] [Economics] Saving balances for players...
+22:27 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:27 [Info] [JtechCore] ------------------------------
+22:31 [Info] [Cornucopia] Deleted 58 stacked loot boxes (out of 852)
+22:31 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+22:37 [Info] [Economics] Saving balances for players...
+22:37 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:37 [Info] [JtechCore] ------------------------------
+22:42 [Info] [Economics] Saving balances for players...
+22:42 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:42 [Info] [JtechCore] ------------------------------
+22:46 [Info] [Cornucopia] Deleted 9 stacked loot boxes (out of 873)
+22:46 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+22:47 [Info] [Economics] Saving balances for players...
+22:47 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:47 [Info] [JtechCore] ------------------------------
+22:47 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: WipeKits
+22:47 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+22:47 [Warning] [Update Checker] Following plugins are outdated:
+
+22:52 [Info] [Economics] Saving balances for players...
+22:52 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:52 [Info] [JtechCore] ------------------------------
+22:57 [Info] [Economics] Saving balances for players...
+22:57 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+22:57 [Info] [JtechCore] ------------------------------
+23:01 [Info] [Cornucopia] Deleted 76 stacked loot boxes (out of 927)
+23:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+23:02 [Info] [Economics] Saving balances for players...
+23:02 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:02 [Info] [JtechCore] ------------------------------
+23:03 [Info] [Dangerous Treasures] S17: Metal Facemask (1), Incendiary Pistol Bullet (40), Incendiary 5.56 Rifle Ammo (60), 5.56 Rifle Ammo (60), CCTV Camera (1), MP5A4 (1)
+23:03 [Info] [Dangerous Treasures] Event at S17
+23:03 [Info] [Dangerous Treasures] Next automated event in 1 hour, 10 minutes, and 47 seconds at 07/01/2018 00:14:45
+23:12 [Info] [Economics] Saving balances for players...
+23:12 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:12 [Info] [JtechCore] ------------------------------
+23:16 [Info] [Cornucopia] Deleted 5 stacked loot boxes (out of 944)
+23:16 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+23:17 [Info] [Economics] Saving balances for players...
+23:17 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:17 [Info] [JtechCore] ------------------------------
+23:22 [Info] [Economics] Saving balances for players...
+23:22 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:22 [Info] [JtechCore] ------------------------------
+23:27 [Info] [Economics] Saving balances for players...
+23:27 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:27 [Info] [JtechCore] ------------------------------
+23:31 [Info] [Cornucopia] Deleted 66 stacked loot boxes (out of 943)
+23:31 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+23:32 [Info] [Economics] Saving balances for players...
+23:32 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:32 [Info] [JtechCore] ------------------------------
+23:37 [Info] [Economics] Saving balances for players...
+23:37 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:37 [Info] [JtechCore] ------------------------------
+23:42 [Info] [Economics] Saving balances for players...
+23:42 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:42 [Info] [JtechCore] ------------------------------
+23:46 [Info] [Cornucopia] Deleted 8 stacked loot boxes (out of 947)
+23:46 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+23:47 [Info] [Economics] Saving balances for players...
+23:47 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:47 [Info] [JtechCore] ------------------------------
+23:47 [Warning] [Update Checker] Following plugins are not accessible online at the moment, and therefore cannot be checked for updates: NoGreen
+23:47 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: PlayerBlinder
+23:47 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+23:47 [Warning] [Update Checker] Following plugins are outdated:
+# Jtech | Installed: 0.0.0 - Latest: 0.6.4 | https://oxidemod.org/plugins/2402/
+23:52 [Info] [Economics] Saving balances for players...
+23:52 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+23:52 [Info] [JtechCore] ------------------------------

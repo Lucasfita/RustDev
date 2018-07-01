@@ -1,0 +1,105 @@
+[07/01/2018 00:01:26] SERVER ran command: magic.version 
+[07/01/2018 00:01:26] SERVER ran command: magic.version protocol
+[07/01/2018 00:06:26] SERVER ran command: magic.version 
+[07/01/2018 00:06:26] SERVER ran command: magic.version protocol
+[07/01/2018 08:02:50] SERVER ran command: server.hostname "My Server"
+[07/01/2018 08:02:50] SERVER ran command: server.description "En Dev"
+[07/01/2018 08:02:50] SERVER ran command: server.headerimage "1"
+[07/01/2018 08:02:50] SERVER ran command: server.url "1"
+[07/01/2018 08:02:50] SERVER ran command: server.seed "70391653"
+[07/01/2018 08:02:50] SERVER ran command: server.worldsize "2000"
+[07/01/2018 08:02:50] SERVER ran command: server.ip "0.0.0.0"
+[07/01/2018 08:02:50] SERVER ran command: server.port "28015"
+[07/01/2018 08:02:50] SERVER ran command: server.maxplayers "50"
+[07/01/2018 08:02:50] SERVER ran command: rcon.ip "0.0.0.0"
+[07/01/2018 08:02:50] SERVER ran command: rcon.port "28016"
+[07/01/2018 08:02:50] SERVER ran command: server.identity "RustDev"
+[07/01/2018 08:02:50] SERVER ran command: server.level "HapisIsland"
+[07/01/2018 08:02:50] SERVER ran command: server.saveinterval "300"
+[07/01/2018 08:02:51] SERVER ran command: server.hostname "My Server"
+[07/01/2018 08:02:51] SERVER ran command: server.description "En Dev"
+[07/01/2018 08:02:51] SERVER ran command: server.headerimage "1"
+[07/01/2018 08:02:51] SERVER ran command: server.url "1"
+[07/01/2018 08:02:51] SERVER ran command: server.seed "70391653"
+[07/01/2018 08:02:51] SERVER ran command: server.worldsize "2000"
+[07/01/2018 08:02:51] SERVER ran command: server.ip "0.0.0.0"
+[07/01/2018 08:02:51] SERVER ran command: server.port "28015"
+[07/01/2018 08:02:51] SERVER ran command: server.maxplayers "50"
+[07/01/2018 08:02:51] SERVER ran command: rcon.ip "0.0.0.0"
+[07/01/2018 08:02:51] SERVER ran command: rcon.port "28016"
+[07/01/2018 08:02:51] SERVER ran command: server.identity "RustDev"
+[07/01/2018 08:02:51] SERVER ran command: server.level "HapisIsland"
+[07/01/2018 08:02:51] SERVER ran command: server.saveinterval "300"
+[07/01/2018 08:02:51] SERVER ran command: server.readcfg 
+[07/01/2018 08:02:51] SERVER ran command: fps.limit "256"
+[07/01/2018 08:02:51] SERVER ran command: global.perf "0"
+[07/01/2018 08:02:51] SERVER ran command: server.arrowarmor "1"
+[07/01/2018 08:02:51] SERVER ran command: server.arrowdamage "1"
+[07/01/2018 08:02:51] SERVER ran command: server.bleedingarmor "1"
+[07/01/2018 08:02:51] SERVER ran command: server.bleedingdamage "1"
+[07/01/2018 08:02:51] SERVER ran command: server.bulletarmor "1"
+[07/01/2018 08:02:51] SERVER ran command: server.bulletdamage "1"
+[07/01/2018 08:02:51] SERVER ran command: server.meleearmor "1"
+[07/01/2018 08:02:51] SERVER ran command: server.meleedamage "1"
+[07/01/2018 08:02:51] SERVER ran command: server.showholstereditems "True"
+[07/01/2018 08:02:51] SERVER ran command: server.woundingenabled "True"
+[07/01/2018 08:02:51] SERVER ran command: global.ownerid 76561197990020059 "Sa1opard" "no reason"
+[07/01/2018 08:03:08] SERVER ran command: o.reload BarrelPoints
+[07/01/2018 08:06:23] SERVER ran command: gather.rate dispenser * 1
+[07/01/2018 08:06:23] SERVER ran command: gather.rate pickup * 1
+[07/01/2018 08:06:23] SERVER ran command: gather.rate quarry * 1
+[07/01/2018 08:06:23] SERVER ran command: dispenser.scale tree 1
+[07/01/2018 08:06:23] SERVER ran command: dispenser.scale ore 1
+[07/01/2018 08:06:23] SERVER ran command: dispenser.scale corpse 1
+[07/01/2018 08:06:25] SERVER ran command: magic.version 
+[07/01/2018 08:06:25] SERVER ran command: magic.version protocol
+[07/01/2018 08:11:25] SERVER ran command: magic.version 
+[07/01/2018 08:11:25] SERVER ran command: magic.version protocol
+[07/01/2018 08:16:25] SERVER ran command: magic.version 
+[07/01/2018 08:16:25] SERVER ran command: magic.version protocol
+[07/01/2018 08:19:21] SERVER ran command: global.restart 
+[07/01/2018 08:21:25] SERVER ran command: magic.version 
+[07/01/2018 08:21:25] SERVER ran command: magic.version protocol
+[07/01/2018 08:23:37] SERVER ran command: server.hostname "My Server"
+[07/01/2018 08:23:37] SERVER ran command: server.description "En Dev"
+[07/01/2018 08:23:37] SERVER ran command: server.headerimage "1"
+[07/01/2018 08:23:37] SERVER ran command: server.url "1"
+[07/01/2018 08:23:37] SERVER ran command: server.seed "70391653"
+[07/01/2018 08:23:37] SERVER ran command: server.worldsize "2000"
+[07/01/2018 08:23:37] SERVER ran command: server.ip "0.0.0.0"
+[07/01/2018 08:23:37] SERVER ran command: server.port "28015"
+[07/01/2018 08:23:37] SERVER ran command: server.maxplayers "50"
+[07/01/2018 08:23:37] SERVER ran command: rcon.ip "0.0.0.0"
+[07/01/2018 08:23:37] SERVER ran command: rcon.port "28016"
+[07/01/2018 08:23:37] SERVER ran command: server.identity "RustDev"
+[07/01/2018 08:23:37] SERVER ran command: server.level "HapisIsland"
+[07/01/2018 08:23:37] SERVER ran command: server.saveinterval "300"
+[07/01/2018 08:23:38] SERVER ran command: o.reload BarrelPoints
+[07/01/2018 08:23:39] SERVER ran command: server.hostname "My Server"
+[07/01/2018 08:23:39] SERVER ran command: server.description "En Dev"
+[07/01/2018 08:23:39] SERVER ran command: server.headerimage "1"
+[07/01/2018 08:23:39] SERVER ran command: server.url "1"
+[07/01/2018 08:23:39] SERVER ran command: server.seed "70391653"
+[07/01/2018 08:23:39] SERVER ran command: server.worldsize "2000"
+[07/01/2018 08:23:39] SERVER ran command: server.ip "0.0.0.0"
+[07/01/2018 08:23:39] SERVER ran command: server.port "28015"
+[07/01/2018 08:23:39] SERVER ran command: server.maxplayers "50"
+[07/01/2018 08:23:39] SERVER ran command: rcon.ip "0.0.0.0"
+[07/01/2018 08:23:39] SERVER ran command: rcon.port "28016"
+[07/01/2018 08:23:39] SERVER ran command: server.identity "RustDev"
+[07/01/2018 08:23:39] SERVER ran command: server.level "HapisIsland"
+[07/01/2018 08:23:39] SERVER ran command: server.saveinterval "300"
+[07/01/2018 08:23:39] SERVER ran command: server.readcfg 
+[07/01/2018 08:23:39] SERVER ran command: fps.limit "256"
+[07/01/2018 08:23:39] SERVER ran command: global.perf "0"
+[07/01/2018 08:23:39] SERVER ran command: server.arrowarmor "1"
+[07/01/2018 08:23:39] SERVER ran command: server.arrowdamage "1"
+[07/01/2018 08:23:39] SERVER ran command: server.bleedingarmor "1"
+[07/01/2018 08:23:39] SERVER ran command: server.bleedingdamage "1"
+[07/01/2018 08:23:39] SERVER ran command: server.bulletarmor "1"
+[07/01/2018 08:23:39] SERVER ran command: server.bulletdamage "1"
+[07/01/2018 08:23:39] SERVER ran command: server.meleearmor "1"
+[07/01/2018 08:23:39] SERVER ran command: server.meleedamage "1"
+[07/01/2018 08:23:39] SERVER ran command: server.showholstereditems "True"
+[07/01/2018 08:23:39] SERVER ran command: server.woundingenabled "True"
+[07/01/2018 08:23:39] SERVER ran command: global.ownerid 76561197990020059 "Sa1opard" "no reason"

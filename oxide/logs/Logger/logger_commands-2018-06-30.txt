@@ -49,3 +49,86 @@
 [06/30/2018 21:46:24] SERVER ran command: dispenser.scale corpse 1
 [06/30/2018 21:46:26] SERVER ran command: magic.version 
 [06/30/2018 21:46:26] SERVER ran command: magic.version protocol
+[06/30/2018 21:50:54] SERVER ran command: gather.rate dispenser * 1
+[06/30/2018 21:50:54] SERVER ran command: gather.rate pickup * 1
+[06/30/2018 21:50:54] SERVER ran command: gather.rate quarry * 1
+[06/30/2018 21:50:54] SERVER ran command: dispenser.scale tree 1
+[06/30/2018 21:50:54] SERVER ran command: dispenser.scale ore 1
+[06/30/2018 21:50:54] SERVER ran command: dispenser.scale corpse 1
+[06/30/2018 21:51:26] SERVER ran command: magic.version 
+[06/30/2018 21:51:26] SERVER ran command: magic.version protocol
+[06/30/2018 21:56:48] SERVER ran command: magic.version 
+[06/30/2018 21:56:48] SERVER ran command: magic.version protocol
+[06/30/2018 21:56:48] SERVER ran command: magic.version 
+[06/30/2018 21:56:48] SERVER ran command: magic.version protocol
+[06/30/2018 21:56:48] SERVER ran command: magic.version 
+[06/30/2018 21:56:48] SERVER ran command: magic.version protocol
+[06/30/2018 21:56:48] SERVER ran command: magic.version 
+[06/30/2018 21:56:48] SERVER ran command: magic.version protocol
+[06/30/2018 21:56:48] SERVER ran command: magic.version 
+[06/30/2018 21:56:48] SERVER ran command: magic.version protocol
+[06/30/2018 21:58:17] SERVER ran command: updates 
+[06/30/2018 22:19:51] SERVER ran command: gather.rate dispenser * 1
+[06/30/2018 22:19:51] SERVER ran command: gather.rate pickup * 1
+[06/30/2018 22:19:51] SERVER ran command: gather.rate quarry * 1
+[06/30/2018 22:19:51] SERVER ran command: dispenser.scale tree 1
+[06/30/2018 22:19:51] SERVER ran command: dispenser.scale ore 1
+[06/30/2018 22:19:51] SERVER ran command: dispenser.scale corpse 1
+[06/30/2018 22:21:26] SERVER ran command: magic.version 
+[06/30/2018 22:21:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:26:26] SERVER ran command: magic.version 
+[06/30/2018 22:26:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:31:26] SERVER ran command: magic.version 
+[06/30/2018 22:31:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:36:26] SERVER ran command: magic.version 
+[06/30/2018 22:36:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:41:26] SERVER ran command: magic.version 
+[06/30/2018 22:41:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:46:26] SERVER ran command: magic.version 
+[06/30/2018 22:46:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:51:23] SERVER ran command: gather.rate dispenser * 1
+[06/30/2018 22:51:23] SERVER ran command: gather.rate pickup * 1
+[06/30/2018 22:51:23] SERVER ran command: gather.rate quarry * 1
+[06/30/2018 22:51:23] SERVER ran command: dispenser.scale tree 1
+[06/30/2018 22:51:23] SERVER ran command: dispenser.scale ore 1
+[06/30/2018 22:51:23] SERVER ran command: dispenser.scale corpse 1
+[06/30/2018 22:51:26] SERVER ran command: magic.version 
+[06/30/2018 22:51:26] SERVER ran command: magic.version protocol
+[06/30/2018 22:56:26] SERVER ran command: magic.version 
+[06/30/2018 22:56:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:01:26] SERVER ran command: magic.version 
+[06/30/2018 23:01:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:06:26] SERVER ran command: magic.version 
+[06/30/2018 23:06:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:11:26] SERVER ran command: magic.version 
+[06/30/2018 23:11:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:16:26] SERVER ran command: magic.version 
+[06/30/2018 23:16:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:19:50] SERVER ran command: gather.rate dispenser * 1
+[06/30/2018 23:19:50] SERVER ran command: gather.rate pickup * 1
+[06/30/2018 23:19:50] SERVER ran command: gather.rate quarry * 1
+[06/30/2018 23:19:50] SERVER ran command: dispenser.scale tree 1
+[06/30/2018 23:19:50] SERVER ran command: dispenser.scale ore 1
+[06/30/2018 23:19:50] SERVER ran command: dispenser.scale corpse 1
+[06/30/2018 23:21:26] SERVER ran command: magic.version 
+[06/30/2018 23:21:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:26:26] SERVER ran command: magic.version 
+[06/30/2018 23:26:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:31:26] SERVER ran command: magic.version 
+[06/30/2018 23:31:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:36:26] SERVER ran command: magic.version 
+[06/30/2018 23:36:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:41:26] SERVER ran command: magic.version 
+[06/30/2018 23:41:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:46:26] SERVER ran command: magic.version 
+[06/30/2018 23:46:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:51:24] SERVER ran command: gather.rate dispenser * 1
+[06/30/2018 23:51:24] SERVER ran command: gather.rate pickup * 1
+[06/30/2018 23:51:24] SERVER ran command: gather.rate quarry * 1
+[06/30/2018 23:51:24] SERVER ran command: dispenser.scale tree 1
+[06/30/2018 23:51:24] SERVER ran command: dispenser.scale ore 1
+[06/30/2018 23:51:24] SERVER ran command: dispenser.scale corpse 1
+[06/30/2018 23:51:26] SERVER ran command: magic.version 
+[06/30/2018 23:51:26] SERVER ran command: magic.version protocol
+[06/30/2018 23:56:26] SERVER ran command: magic.version 
+[06/30/2018 23:56:26] SERVER ran command: magic.version protocol

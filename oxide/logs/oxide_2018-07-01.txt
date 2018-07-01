@@ -1,0 +1,417 @@
+00:01 [Info] [Cornucopia] Deleted 59 stacked loot boxes (out of 948)
+00:01 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+00:02 [Info] [Economics] Saving balances for players...
+00:02 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+00:02 [Info] [JtechCore] ------------------------------
+08:02 [Info] Loading Oxide Core v2.0.3834...
+08:02 [Info] Loading extensions...
+08:02 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:02 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:02 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+08:02 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:02 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:02 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+08:02 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:02 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:02 [Info] Using Covalence provider for game 'Rust'
+08:02 [Info] Loading plugins...
+08:02 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+08:02 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:02 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:02 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+08:02 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+08:02 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+08:02 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+08:02 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+08:02 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+08:02 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+08:02 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+08:02 [Info] AdminRadar, AdvanceGather, AutoClientCommands, AutoFuel, AutomaticAuthorization, BarrelPoints, BetterChat, BetterLoot, Bloodtrail, BlueprintManager, BuildingGrades, BuildingOwners, ChatCleaner, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, CupboardMessages, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, DragableCorpses, EasyAirdrop, Economics, EditTool, EmptyLowFPS, EnhancedHammer, FriendlyFire, FurnaceSplitter, GameTipAnnouncements, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HelpText, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, ItemTranslations, Jail, Jtech, Kits, LastName, LimitedLadders, LoadingMessages, Logger, Loyalty, LustyMap, MagicDescription, MedicRevive, NoEscape, NoGiveNotices, NoGreen, Npctp, NTeleportation, PathFinding, PermissionsManager, PlantDrop, PlayerBlinder, PlayerDatabase, PlayerManager, PlayerTracker, PopupNotifications, ProtocolKickInfo, ProximityAlert, PurifierConfig, QuickSmelt, QuickSort, RainOfFire, RemoverTool, RespawnMessages, RespawnProtection, SaveAnnouncer, ServerAnnouncer, ServerInfo, ServerRewards, SignArtist, SignTracker, Skins, SmartChatBot, Spawns, Spectate, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, VIPTrial, WaterLimits, Waypoints, WipeKits, WipeProtection, ZLevelsRemastered, ZoneCommand and ZoneManager were compiled successfully in 4222ms
+08:02 [Error] Error while compiling: AutoCrafter.cs(895,21): error CS0117: `BuildingManager' does not contain a definition for `DecayEntities'
+08:02 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+08:02 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+08:02 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+08:02 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+08:02 [Warning] Npctp plugin is waiting for requirements to be loaded: HumanNPC and PathFinding
+08:02 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+08:02 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+08:02 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+08:02 [Info] Loaded plugin AdvanceGather v1.0.0 by Hougan
+08:02 [Info] Loaded plugin Automatic Client Commands v0.1.1 by k1lly0u
+08:02 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+08:02 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+08:02 [Error] [Barrel Points] Economics.cs was not found! Disabling the economics setting until you reload me
+08:02 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
+08:02 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:02 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+08:02 [Info] Loaded plugin Bloodtrail v1.0.3 by hoppel
+08:02 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+08:02 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+08:02 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+08:02 [Info] Loaded plugin ChatCleaner v0.4.0 by Wulf/lukespragg
+08:02 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+08:02 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+08:02 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+08:02 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+08:02 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+08:02 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+08:02 [Info] Loaded plugin Cupboard Messages v1.1.0 by Ryan
+08:02 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+08:02 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+08:02 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+08:02 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+08:02 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+08:02 [Info] Loaded plugin DragableCorpses v1.0.1 by Jake_Rich
+08:02 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+08:02 [Info] [Economics] Saving balances for players...
+08:02 [Info] [Barrel Points] A plugin dependency was detected as being loaded / reloaded... I will automatically reload myself incase of any changes in 3 seconds
+08:02 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+08:02 [Info] Loaded plugin EditTool v1.0.2 by Jake Rich
+08:02 [Info] [EmptyLowFPS] Server is empty setting fps.limit to 30
+08:02 [Info] [EmptyLowFPS] Server is empty setting server.tickrate to 10
+08:02 [Info] Loaded plugin EmptyLowFPS v0.0.4 by Dezito
+08:02 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+08:02 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+08:02 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+08:02 [Info] Loaded plugin Game Tip Announcements v1.0.2 by redBDGR
+08:02 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+08:02 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+08:02 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+08:02 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+08:02 [Info] Loaded plugin Hammer Time v1.0.18 by Shady
+08:02 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+08:02 [Info] Loaded plugin HelpText v2.0.5 by Calytic/Domestos
+08:02 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+08:02 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+08:02 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+08:02 [Info] [Humanity System] Betterchat groups already created...
+08:02 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+08:02 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+08:02 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+08:02 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+08:02 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+08:02 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+08:02 [Info] Loaded plugin ItemTranslations v1.0.0 by Ryan
+08:02 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+08:02 [Info] Loaded plugin Jtech v0.0.0 by TheGreatJ
+08:02 [Info] Loaded plugin Kits v3.2.92 by Reneb
+08:02 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+08:02 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+08:02 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+08:02 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+08:02 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+08:02 [Info] Loaded plugin Magic Description v1.4.0 by Wulf/lukespragg
+08:02 [Info] Loaded plugin MedicRevive v0.1.0 by k1lly0u
+08:02 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+08:02 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+08:02 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+08:02 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+08:02 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+08:02 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+08:02 [Warning] [Npctp] Spawns Database could not be found you only can use command NPC or random spawns!
+08:02 [Info] [Npctp] Thanks for using NPCTP drop me a line if you need anything added.
+08:02 [Info] Loaded plugin Npctp v2.4.4 by Ts3hosting
+08:02 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+08:02 [Info] Loaded plugin Plant Drop v1.0.0 by Travis Butts
+08:02 [Info] Loaded plugin Player Blinder v1.0.5 by redBDGR
+08:02 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+08:02 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+08:02 [Info] Loaded plugin PlayerTracker v1.0.1 by redBDGR
+08:02 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+08:02 [Info] Loaded plugin ProtocolKickInfo v1.0.3 by Fujikura
+08:02 [Info] Loaded plugin ProximityAlert v0.2.3 by k1lly0u
+08:02 [Info] Loaded plugin Purifier Config v1.0.4 by Shady
+08:02 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+08:02 [Info] Loaded plugin Quick Sort v1.2.1 by Wulf/lukespragg
+08:02 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+08:02 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+08:02 [Info] Loaded plugin RespawnMessages v0.2.1 by Kappasaurus
+08:02 [Info] Loaded plugin RespawnProtection v1.2.8 by sami37
+08:02 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+08:02 [Info] Loaded plugin Server Announcer v1.0.6 by austinv900
+08:02 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+08:02 [Info] Loaded plugin ServerRewards v0.4.65 by k1lly0u
+08:02 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+08:02 [Info] Loaded plugin SignTracker v2.0.1 by Wulf/lukespragg
+08:02 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+08:02 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+08:02 [Info] [Smart Chat Bot] ----------------------------------------------
+08:02 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+08:02 [Info] [Smart Chat Bot] ----------------------------------------------
+08:02 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+08:02 [Info] [Smart Chat Bot] --    0 Timed Messages
+08:02 [Info] [Smart Chat Bot] ----------------------------------------------
+08:02 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+08:02 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+08:02 [Info] Loaded plugin Spectate v0.4.3 by Wulf/lukespragg
+08:02 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+08:02 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+08:02 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+08:02 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+08:02 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+08:02 [Info] [VIP Trial] Nobody needs to be removed.
+08:02 [Info] Loaded plugin VIP Trial v1.3.5 by Maik8
+08:02 [Info] Loaded plugin Water Limits v3.1.0 by Wulf/lukespragg
+08:02 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+08:02 [Info] Loaded plugin Wipe Kits v1.1.2 by Ryan
+08:02 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+08:02 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:02 [Info] Loaded plugin ZoneCommand v0.1.1 by deer_SWAG
+08:02 [Info] [ZoneManager] Loaded 0 Zone definitions
+08:02 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+08:02 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+08:04 [Info] BarrelPoints was compiled successfully in 308ms
+08:04 [Info] Unloaded plugin Barrel Points v2.0.7 by redBDGR
+08:04 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
+08:06 [Info] Updating Rust:IO ...
+08:06 [Info] [Admin Radar] Took 43.9859ms to cache 2099/19537 entities
+08:06 [Info] Rust:IO: Update complete
+08:06 [Info] [BetterLoot] HeliCrate > 'useCustomTableHeli' enabled, but loot population inactive by 'includeHeliCrate'
+08:06 [Info] [BetterLoot] BradleyCrate > 'useCustomTableBradley' enabled, but loot population inactive by 'includeBradleyCrate'
+08:06 [Info] [BetterLoot] SupplyDrop > 'useCustomTableSupply' enabled, but loot population inactive by 'includeSupplyDrop'
+08:06 [Info] [BetterLoot] Updating internals ...
+08:06 [Info] [BetterLoot] There are 38 items in the global Barrels LootTable.
+08:06 [Info] [BetterLoot] There are 38 items in the global Crates LootTable.
+08:06 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took 14193ms
+08:06 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v2.15.0' took average 60ms
+08:06 [Warning] Calling 'OnServerInitialized' on 'DangerousTreasures v1.1.4' took 110ms
+08:06 [Info] [GameTipAPI] Starting 0 scheduled tips.
+08:06 [Warning] [Day/Night Gather] 0
+08:06 [Warning] Calling 'OnServerInitialized' on 'HeliControl v1.3.1' took 207ms
+08:06 [Warning] [HitIcon] Plugin Clans work with HitIcon
+08:06 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.42' took 283ms
+08:06 [Info] [LustyMap] [Warning] Validating imagery
+08:06 [Info] [LustyMap] [Warning] Generating the main map
+08:06 [Info] [LustyMap] [Warning] Main map generated successfully!
+08:06 [Info] [LustyMap] [Warning] Generating the mini-map
+08:06 [Info] [LustyMap] [Warning] Mini map generated successfully!
+08:06 [Info] [LustyMap] [Warning] Generating the complex map. This may take a few moments, please wait!
+08:06 [Info] [LustyMap] [Warning] Complex map generated successfully!
+08:06 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.39' took 675ms
+08:06 [Info] [StartProtection] Entry list up to date.
+08:06 [Info] [StartProtection] Start Protection has been enabled [Minutes: 60] (type /sp toggle to disable).
+08:06 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:06 [Info] [JtechCore] Registered Deployable: [Jtech] Transport Pipe
+08:06 [Info] [JtechCore] Registered Deployable: [Jtech] Assembler
+08:06 [Info] [JtechCore] --- 0 JDeployable(s) Loaded ---
+08:06 [Info] [JtechCore] -------------------------------
+08:06 [Info] [Magic Description] Server description updated: 
+magic.description: "Powered by Oxide {magic.version} for Rust {magic.version protocol}"
+08:06 [Warning] [ProximityAlert] FriendsAPI could not be found! Unable to use friends feature
+08:06 [Warning] Calling 'OnServerInitialized' on 'RainOfFire v0.2.51' took 120ms [GARBAGE COLLECT]
+08:06 [Warning] [ServerRewards] Waiting for ImageLibrary to finish image processing!
+08:06 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.65' took 295ms
+08:06 [Error] ZoneCommand v0.1.1: You need to install ZoneManager or RectZones to use this plugin
+08:06 [Info] [BetterLoot] No stacked LootContainer found.
+08:06 [Info] [BetterLoot] Internals have been updated. Populated '279' supported containers.
+08:06 [Info] [Dangerous Treasures] G19: Bucket Helmet (1), HV Pistol Ammo (40), LR-300 Assault Rifle (1), Metal Facemask (1), Coffee Can Helmet (1), 12 Gauge Slug (40)
+08:06 [Info] [Dangerous Treasures] Event at G19
+08:06 [Info] [Dangerous Treasures] Next automated event in 1 hour, 47 minutes, and 49 seconds at 07/01/2018 09:54:16
+08:06 [Info] Installing Rust:IO ...
+08:06 [Info] Rust:IO> Setting up Rust:IO 2.3.6670.37696 ...
+08:06 [Info] Rust:IO> Creating directories ...
+08:06 [Info] Rust:IO> Applying config ...
+08:06 [Info] Rust:IO> Initializing database ...
+08:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+08:07 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  70926.499ms
+Postprocess  :  1272.769ms
+  Shadows    :   146.850ms
+  FXAA       :  1104.688ms
+Encoding     :    44.994ms
+Other        :    38.566ms
+--------------------------
+Total        :  72282.829ms
+08:07 [Info] Rust:IO> Starting HTTP server on *:28015 ...
+08:07 [Info] Rust:IO> Installed.
+08:07 [Info] Rust:IO> Now ticking
+08:07 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 72458ms [GARBAGE COLLECT]
+08:07 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 1ms [GARBAGE COLLECT]
+08:07 [Warning] [StartProtection] Waiting for ImageLibrary to finish image processing!
+08:07 [Warning] [ServerRewards] Waiting for ImageLibrary to finish image processing!
+08:07 [Info] Rust:IO> External IP address obtained from lookup: 176.156.34.200
+08:07 [Info] [Item Skin Randomizer] Loaded 1340 approved workshop skins.
+08:07 [Warning] [Update Checker] Following plugins do not have a release version, and therefore cannot be checked for updates: Spectate, PlayerBlinder and WipeKits
+08:07 [Warning] [Update Checker] Failed to access plugin information API.
+If this keeps happening, please contact the developer.
+08:07 [Warning] [Update Checker] Following plugins are outdated:
+
+08:08 [Warning] [ServerRewards] All UI elements have been successfully generated!
+08:11 [Info] HammerTime was compiled successfully in 2115ms
+08:11 [Info] Unloaded plugin Hammer Time v1.0.18 by Shady
+08:11 [Info] Loaded plugin Hammer Time v1.0.19 by Shady
+08:12 [Info] [Economics] Saving balances for players...
+08:12 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+08:12 [Info] [JtechCore] ------------------------------
+08:17 [Info] [Economics] Saving balances for players...
+08:17 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+08:17 [Info] [JtechCore] ------------------------------
+08:19 [Info] Friends was compiled successfully in 2075ms
+08:19 [Info] Loaded plugin Friends v2.2.5 by Nogrod
+08:21 [Info] [Cornucopia] Deleted 45 stacked loot boxes (out of 632)
+08:21 [Info] [Cornucopia] Nothing to process, skipping MainSpawnCycle()
+08:22 [Info] [Economics] Saving balances for players...
+08:22 [Info] [JtechCore] --- 0 JDeployable(s) Saved ---
+08:22 [Info] [JtechCore] ------------------------------
+08:23 [Info] Loading Oxide Core v2.0.3834...
+08:23 [Info] Loading extensions...
+08:23 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:23 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:23 [Info] Loaded extension CSharp v2.0.3882 by Oxide and Contributors
+08:23 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:23 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+08:23 [Info] Loaded extension Rust v2.0.3969 by Oxide and Contributors
+08:23 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+08:23 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+08:23 [Info] Using Covalence provider for game 'Rust'
+08:23 [Info] Loading plugins...
+08:23 [Info] Loaded plugin Rust v2.0.3969 by Oxide and Contributors
+08:23 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+08:23 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+08:23 [Info] Added '// Reference: System.Drawing' in plugin 'ChatHead'
+08:23 [Info] Added '// Reference: System.Drawing' in plugin 'CopyPaste'
+08:23 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+08:23 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+08:23 [Info] Added '// Reference: System.Drawing' in plugin 'LustyMap'
+08:23 [Warning] Ignored unnecessary '// Reference: Oxide.Core.MySql' in plugin 'PlayerDatabase'
+08:23 [Warning] Ignored unnecessary '// Reference: Oxide.Core.SQLite' in plugin 'PlayerDatabase'
+08:23 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+08:23 [Info] AdminRadar, AdvanceGather, AutoClientCommands, AutoFuel, AutomaticAuthorization, BarrelPoints, BetterChat, BetterLoot, Bloodtrail, BlueprintManager, BuildingGrades, BuildingOwners, ChatCleaner, ChatHead, Clans, ClothingSlots, CopyPaste, Cornucopia, CraftingController, CupboardMessages, DamageDisplay, DangerousTreasures, DayNightGather, DCProtect, DeathNotes, DragableCorpses, EasyAirdrop, Economics, EditTool, EmptyLowFPS, EnhancedHammer, FriendlyFire, Friends, FurnaceSplitter, GameTipAnnouncements, GameTipAPI, GatherManager, GUIAnnouncements, HammerTime, HeliControl, HelpText, HitIcon, HooksExtended, Hotel, HumanitySystem, HumanNPC, ImageLibrary, IngameClockGUI, ItemSkinRandomizer, ItemTranslations, Jail, Jtech, Kits, LastName, LimitedLadders, LoadingMessages, Logger, Loyalty, LustyMap, MagicDescription, MedicRevive, NoEscape, NoGiveNotices, NoGreen, Npctp, NTeleportation, PathFinding, PermissionsManager, PlantDrop, PlayerBlinder, PlayerDatabase, PlayerManager, PlayerTracker, PopupNotifications, ProtocolKickInfo, ProximityAlert, PurifierConfig, QuickSmelt, QuickSort, RainOfFire, RemoverTool, RespawnMessages, RespawnProtection, SaveAnnouncer, ServerAnnouncer, ServerInfo, ServerRewards, SignArtist, SignTracker, Skins, SmartChatBot, Spawns, Spectate, StackSizeController, StartProtection, StorageCleaner, SurveyInfo, TimeOfDay, UpdateChecker, VIPTrial, WaterLimits, Waypoints, WipeKits, WipeProtection, ZLevelsRemastered, ZoneCommand and ZoneManager were compiled successfully in 4331ms
+08:23 [Error] Error while compiling: AutoCrafter.cs(895,21): error CS0117: `BuildingManager' does not contain a definition for `DecayEntities'
+08:23 [Warning] DayNightGather plugin is waiting for requirements to be loaded: GatherManager
+08:23 [Warning] Hotel plugin is waiting for requirements to be loaded: ZoneManager
+08:23 [Warning] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+08:23 [Warning] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+08:23 [Warning] Npctp plugin is waiting for requirements to be loaded: HumanNPC and PathFinding
+08:23 [Error] Error while compiling: StartMachine.cs(163,34): error CS0103: The name `FridgeMachine' does not exist in the current context
+08:23 [Warning] StartProtection plugin is waiting for requirements to be loaded: ImageLibrary
+08:23 [Info] Loaded plugin Admin Radar v4.3.0 by nivex
+08:23 [Info] Loaded plugin AdvanceGather v1.0.0 by Hougan
+08:23 [Info] Loaded plugin Automatic Client Commands v0.1.1 by k1lly0u
+08:23 [Info] Loaded plugin Auto Fuel v1.0.7 by redBDGR
+08:23 [Info] Loaded plugin AutomaticAuthorization v0.2.3 by k1lly0u
+08:23 [Error] [Barrel Points] Economics.cs was not found! Disabling the economics setting until you reload me
+08:23 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
+08:23 [Info] Loaded plugin Better Chat v5.0.19 by LaserHydra
+08:23 [Info] Loaded plugin BetterLoot v2.15.0 by FuJiCuRa / dcode
+08:23 [Info] Loaded plugin Bloodtrail v1.0.3 by hoppel
+08:23 [Info] Loaded plugin Blueprint Manager v1.0.3 by Jacob
+08:23 [Info] Loaded plugin Building Grades v0.3.12 by bawNg / Nogrod
+08:23 [Info] Loaded plugin Building Owners v3.0.2 by Reneb
+08:23 [Info] Loaded plugin ChatCleaner v0.4.0 by Wulf/lukespragg
+08:23 [Info] Loaded plugin ChatHead v1.0.1 by Wulf/lukespragg
+08:23 [Info] Loaded plugin Clans v0.1.51 by k1lly0u
+08:23 [Info] Loaded plugin ClothingSlots v1.1.0 by Jake_Rich
+08:23 [Info] Loaded plugin Copy Paste v3.6.7 by Reneb
+08:23 [Info] Loaded plugin Cornucopia v1.1.8 by Deicide666ra
+08:23 [Info] Loaded plugin Crafting Controller v2.4.8 by Mughisi
+08:23 [Info] Loaded plugin Cupboard Messages v1.1.0 by Ryan
+08:23 [Info] [DamageDisplayGUI] DamageDisplay by cogu is now LIVE!
+08:23 [Info] Loaded plugin DamageDisplayGUI v1.6.1 by cogu
+08:23 [Info] Loaded plugin Dangerous Treasures v1.1.4 by nivex
+08:23 [Info] Loaded plugin DCProtect v1.0.5 by FireStorm78
+08:23 [Info] Loaded plugin Death Notes v6.0.5 by LaserHydra
+08:23 [Info] Loaded plugin DragableCorpses v1.0.1 by Jake_Rich
+08:23 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+08:23 [Info] [Economics] Saving balances for players...
+08:23 [Info] [Barrel Points] A plugin dependency was detected as being loaded / reloaded... I will automatically reload myself incase of any changes in 3 seconds
+08:23 [Info] Loaded plugin Economics v3.4.0 by Wulf/lukespragg
+08:23 [Info] Loaded plugin EditTool v1.0.2 by Jake Rich
+08:23 [Info] [EmptyLowFPS] Server is empty setting fps.limit to 30
+08:23 [Info] [EmptyLowFPS] Server is empty setting server.tickrate to 10
+08:23 [Info] Loaded plugin EmptyLowFPS v0.0.4 by Dezito
+08:23 [Info] Loaded plugin Enhanced Hammer v1.3.4 by Fuji/Visa
+08:23 [Info] Loaded plugin FriendlyFire v1.6.0 by playrust.io / dcode
+08:23 [Info] Loaded plugin Friends v2.2.5 by Nogrod
+08:23 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+08:23 [Info] Loaded plugin Game Tip Announcements v1.0.2 by redBDGR
+08:23 [Info] Loaded plugin GameTipAPI v1.0.0 by S0N_0F_BISCUIT
+08:23 [Info] Loaded plugin Gather Manager v2.2.6 by Mughisi
+08:23 [Info] Loaded plugin Day/Night Gather v1.0.5 by Dubz
+08:23 [Info] Loaded plugin GUIAnnouncements v1.23.83 by JoeSheep
+08:23 [Info] Loaded plugin Hammer Time v1.0.19 by Shady
+08:23 [Info] Loaded plugin HeliControl v1.3.1 by Shady
+08:23 [Info] Loaded plugin HelpText v2.0.5 by Calytic/Domestos
+08:23 [Info] Loaded plugin HitIcon v1.5.9 by serezhadelaet
+08:23 [Info] Loaded plugin HooksExtended v0.1.3 by Calytic @ RustServers.IO
+08:23 [Info] [Humanity System] Betterchat function loaded - Attempting to create groups...
+08:23 [Info] [Humanity System] Betterchat groups already created...
+08:23 [Info] Loaded plugin Humanity System v1.1.5 by DylanSMR
+08:23 [Info] Loaded plugin Image Library v2.0.42 by Absolut & K1lly0u
+08:23 [Info] Loaded plugin LustyMap v2.1.39 by Kayzor / k1lly0u
+08:23 [Info] Loaded plugin StartProtection v2.2.1 by Norn / wazzzup
+08:23 [Info] Loaded plugin Ingame Clock GUI v0.0.7 by deer_SWAG
+08:23 [Info] Loaded plugin Item Skin Randomizer v1.3.3 by Mughisi
+08:23 [Info] Loaded plugin ItemTranslations v1.0.0 by Ryan
+08:23 [Info] Loaded plugin Jail v4.0.0 by Reneb / k1lly0u
+08:23 [Info] Loaded plugin Jtech v0.0.0 by TheGreatJ
+08:23 [Info] Loaded plugin Kits v3.2.92 by Reneb
+08:23 [Info] Loaded plugin LastName v0.1.16 by deer_SWAG
+08:23 [Info] Loaded plugin LimitedLadders v1.0.3 by VVoid
+08:23 [Info] Loaded plugin Loading Messages v1.0.4 by VVoid
+08:23 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+08:23 [Info] Loaded plugin Loyalty v1.3.6 by Bamabo
+08:23 [Info] Loaded plugin Magic Description v1.4.0 by Wulf/lukespragg
+08:23 [Info] Loaded plugin MedicRevive v0.1.0 by k1lly0u
+08:23 [Info] Loaded plugin NoEscape v2.0.8 by Calytic @ RustServers.io
+08:23 [Info] Loaded plugin NoGiveNotices v0.1.0 by Wulf/lukespragg
+08:23 [Info] Loaded plugin NoGreen v1.2.0 by JakeKillsAll
+08:23 [Info] Loaded plugin NTeleportation v1.0.26 by Nogrod
+08:23 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+08:23 [Info] Loaded plugin HumanNPC v0.3.18 by Reneb/Nogrod/Calytic
+08:23 [Warning] [Npctp] Spawns Database could not be found you only can use command NPC or random spawns!
+08:23 [Info] [Npctp] Thanks for using NPCTP drop me a line if you need anything added.
+08:23 [Info] Loaded plugin Npctp v2.4.4 by Ts3hosting
+08:23 [Info] Loaded plugin PermissionsManager v0.0.9 by Steenamaroo
+08:23 [Info] Loaded plugin Plant Drop v1.0.0 by Travis Butts
+08:23 [Info] Loaded plugin Player Blinder v1.0.5 by redBDGR
+08:23 [Info] Loaded plugin PlayerDatabase v1.5.7 by Reneb
+08:23 [Info] Loaded plugin PlayerManager v1.0.11 by Reneb
+08:23 [Info] Loaded plugin PlayerTracker v1.0.1 by redBDGR
+08:23 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+08:23 [Info] Loaded plugin ProtocolKickInfo v1.0.3 by Fujikura
+08:23 [Info] Loaded plugin ProximityAlert v0.2.3 by k1lly0u
+08:23 [Info] Loaded plugin Purifier Config v1.0.4 by Shady
+08:23 [Info] Loaded plugin QuickSmelt v4.0.5 by Wulf/Jake-Rich
+08:23 [Info] Loaded plugin Quick Sort v1.2.1 by Wulf/lukespragg
+08:23 [Info] Loaded plugin RainOfFire v0.2.51 by emu / k1lly0u
+08:23 [Info] Loaded plugin RemoverTool v4.2.9 by Reneb/Fuji
+08:23 [Info] Loaded plugin RespawnMessages v0.2.1 by Kappasaurus
+08:23 [Info] Loaded plugin RespawnProtection v1.2.8 by sami37
+08:23 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+08:23 [Info] Loaded plugin Server Announcer v1.0.6 by austinv900
+08:23 [Info] Loaded plugin ServerInfo v0.5.3 by Fujikura/baton
+08:23 [Info] Loaded plugin ServerRewards v0.4.65 by k1lly0u
+08:23 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+08:23 [Info] Loaded plugin SignTracker v2.0.1 by Wulf/lukespragg
+08:23 [Info] Loaded plugin Skins v1.2.9 by MalkoR
+08:23 [Info] [Smart Chat Bot] Loaded 0 valid timed messages
+08:23 [Info] [Smart Chat Bot] ----------------------------------------------
+08:23 [Info] [Smart Chat Bot]           SmartChatBot - i_love_code          
+08:23 [Info] [Smart Chat Bot] ----------------------------------------------
+08:23 [Info] [Smart Chat Bot] --    0 Automated Responses (0 Valid)
+08:23 [Info] [Smart Chat Bot] --    0 Timed Messages
+08:23 [Info] [Smart Chat Bot] ----------------------------------------------
+08:23 [Info] Loaded plugin Smart Chat Bot v1.7.0 by i_love_code
+08:23 [Info] Loaded plugin Spawns v2.0.35 by Reneb / k1lly0u
+08:23 [Info] Loaded plugin Spectate v0.4.3 by Wulf/lukespragg
+08:23 [Info] Loaded plugin Stack Size Controller v1.9.9 by Canopy Sheep
+08:23 [Info] Loaded plugin StorageCleaner v0.1.1 by k1lly0u
+08:23 [Info] Loaded plugin Survey Info v0.1.8 by Diesel_42o
+08:23 [Info] Loaded plugin TimeOfDay v2.3.2 by Fujikura
+08:23 [Info] Loaded plugin Update Checker v2.3.0 by LaserHydra
+08:23 [Info] [VIP Trial] Nobody needs to be removed.
+08:23 [Info] Loaded plugin VIP Trial v1.3.5 by Maik8
+08:23 [Info] Loaded plugin Water Limits v3.1.0 by Wulf/lukespragg
+08:23 [Info] Loaded plugin Waypoints v1.1.2 by Reneb
+08:23 [Info] Loaded plugin Wipe Kits v1.1.2 by Ryan
+08:23 [Info] Loaded plugin WipeProtection v1.2.1 by Slydelix
+08:23 [Info] Loaded plugin ZLevelsRemastered v2.9.4 by Fujikura/Visagalis
+08:23 [Info] Loaded plugin ZoneCommand v0.1.1 by deer_SWAG
+08:23 [Info] [ZoneManager] Loaded 0 Zone definitions
+08:23 [Info] Loaded plugin ZoneManager v2.5.8 by Reneb / Nogrod
+08:23 [Info] Loaded plugin Hotel v1.1.10 by FireStorm78
+08:23 [Info] BarrelPoints was compiled successfully in 269ms
+08:23 [Info] Unloaded plugin Barrel Points v2.0.7 by redBDGR
+08:24 [Info] Loaded plugin Barrel Points v2.0.7 by redBDGR
