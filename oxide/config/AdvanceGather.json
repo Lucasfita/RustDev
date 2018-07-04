@@ -5,22 +5,22 @@
   },
   "Get biofuels from Corn": {
     "biofuel Item": "lowgradefuel",
-    "Chance to get biofuel from corn": 8,
-    "Chance to get biofuel from planted corn": 65,
-    "Max amount": 3,
-    "Min amount": 2
+    "Chance to get biofuel from corn": 2,
+    "Chance to get biofuel from planted corn": 4,
+    "Max amount": 2,
+    "Min amount": 1
   },
   "Get biofuels from Pumpkin": {
     "biofuel Item": "lowgradefuel",
-    "Chance to get biofuel from planted pumpkin": 50,
-    "Chance to get biofuel from pumpkin": 5,
-    "Max amount": 8,
-    "Min amount": 4
+    "Chance to get biofuel from planted pumpkin": 2,
+    "Chance to get biofuel from pumpkin": 3,
+    "Max amount": 2,
+    "Min amount": 1
   },
   "Get blueberries from Hemp": {
     "berry Item": "blueberries",
     "Chance to get berry from hemp": 10,
-    "Chance to get berry from planted hemp": 80,
+    "Chance to get berry from planted hemp": 50,
     "Max amount": 2,
     "Min amount": 1
   },

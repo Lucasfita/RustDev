@@ -1,4 +1,4 @@
 {
-  "Default UI style (center, lite, right)": "right",
-  "Loot all delay in seconds (0 to disable)": 0
+  "Default UI style (center, lite, right)": "lite",
+  "Loot all delay in seconds (0 to disable)": 3
 }

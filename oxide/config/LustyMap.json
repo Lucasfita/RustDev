@@ -6,8 +6,8 @@
   },
   "Map - Complex Options": {
     "Enable the complex map": true,
-    "Force complex zoom mode": false,
-    "Forced zoom number (1, 2 or 3)": 1
+    "Force complex zoom mode": true,
+    "Forced zoom number (1, 2 or 3)": 2
   },
   "Map - Main Options": {
     "Enable AFK tracking": true,
@@ -17,9 +17,9 @@
       "Custom map filename": "",
       "Use custom map": false
     },
-    "Map update time (seconds)": 1.0,
-    "Open map on for player's when they connect": true,
-    "Show map compass": true
+    "Map update time (seconds)": 5.0,
+    "Open map on for player's when they connect": false,
+    "Show map compass": false
   },
   "Map - Mini Options": {
     "Enable the minimap": true,
@@ -31,17 +31,17 @@
   },
   "Marker Options": {
     "Show all players": false,
-    "Show cars (un-occupied only)": true,
+    "Show cars (un-occupied only)": false,
     "Show caves": false,
     "Show debris": false,
     "Show friends and clanmates": true,
-    "Show helicopters": true,
+    "Show helicopters": false,
     "Show marker names": true,
     "Show monuments": true,
-    "Show planes": true,
+    "Show planes": false,
     "Show self": true,
-    "Show supply drops": true,
-    "Show tanks": true,
+    "Show supply drops": false,
+    "Show tanks": false,
     "Show vending machines (public broadcast only)": true
   },
   "Spam Options": {

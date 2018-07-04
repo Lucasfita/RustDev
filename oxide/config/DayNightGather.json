@@ -3,10 +3,10 @@
   "DayGatherRateDispenser": 1.0,
   "DayGatherRatePickup": 1.0,
   "DayGatherRateQuarry": 1.0,
-  "NightGatherRateDispenser": 1.0,
-  "NightGatherRatePickup": 1.0,
-  "NightGatherRateQuarry": 1.0,
+  "NightGatherRateDispenser": 1.2,
+  "NightGatherRatePickup": 1.2,
+  "NightGatherRateQuarry": 1.2,
   "SunRise": 7.0,
   "SunSet": 19.0,
-  "UseTOD": false
+  "UseTOD": true
 }

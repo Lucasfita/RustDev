@@ -1,8 +1,8 @@
 {
   "Limitations": {
     "Maximum clan alliance count": 2,
-    "Maximum clan member count": 8,
-    "Maximum clan moderator count": 2
+    "Maximum clan member count": 3,
+    "Maximum clan moderator count": 1
   },
   "Message colors": {
     "Clan and Alliance chat color": "#3999D5",

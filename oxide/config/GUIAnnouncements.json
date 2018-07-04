@@ -62,7 +62,7 @@
   },
   "Public Airdrop Announcements": {
     "Banner Color": "Green",
-    "Enabled": true,
+    "Enabled": false,
     "Show Location": false,
     "Text": "Airdrop en route!",
     "Text Color": "Yellow",
@@ -112,7 +112,7 @@
   },
   "Public Christmas Stocking Refill Announcement": {
     "Banner Color": "Green",
-    "Enabled": false,
+    "Enabled": true,
     "Text": "Santa has refilled your stockings. Go check what you've got!",
     "Text Color": "Red"
   },
@@ -121,12 +121,12 @@
     "Despawn Banner Color": "Red",
     "Despawn Text": "The patrol helicopter has left.",
     "Despawn Text Color": "White",
-    "Destroyed": true,
+    "Destroyed": false,
     "Destroyed Banner Color": "Red",
     "Destroyed Text": "The patrol helicopter has been taken down!",
     "Destroyed Text Color": "White",
     "Destroyed Text With Destroyer": "{playername} got the last shot on the helicopter taking it down!",
-    "Show Destroyer": true,
+    "Show Destroyer": false,
     "Spawn": true,
     "Spawn Banner Color": "Red",
     "Spawn Text": "Patrol Helicopter Inbound!",

@@ -11,7 +11,7 @@
     "permissionName": "enhancedhammer.use"
   },
   "Settings": {
-    "defaultDisableTimer": 30,
+    "defaultDisableTimer": 60,
     "enableDistanceUpgrade": true,
     "hammerHitCheckRefresh": 0.33,
     "hammerHitRange": 3.0,

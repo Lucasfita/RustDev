@@ -1,6 +1,6 @@
 {
   "Allow chat between inmates (when chat is blocked)": true,
-  "Allow players to escape jail": false,
+  "Allow players to escape jail": true,
   "Automatically release prisoners when their sentence has expired": true,
   "Blacklisted commands for prisoners": [
     "tp",

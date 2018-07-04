@@ -54,11 +54,11 @@
     "playerCuiDefaultEnabled": true,
     "playerPluginDefaultEnabled": true,
     "pluginPrefix": "<color=orange>ZLevels</color>:",
-    "wipeDataOnNewSave": false
+    "wipeDataOnNewSave": true
   },
   "NightBonus": {
     "broadcastEnabledBonus": true,
-    "enableNightBonus": false,
+    "enableNightBonus": true,
     "logEnabledBonusConsole": false,
     "PointsPerHitAtNight": {
       "A": 60,

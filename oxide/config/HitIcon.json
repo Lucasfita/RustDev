@@ -14,7 +14,7 @@
     "Show death skull": true,
     "Show friend damage": true,
     "Show hit icon": true,
-    "Show hits/deaths on NPC (Bears, wolfs, etc.)": false,
+    "Show hits/deaths on NPC (Bears, wolfs, etc.)": true,
     "Text Font": "robotocondensed-regular.ttf",
     "Text Outline Color": "0 0 0 1",
     "Text Outline Distance": "-0.4 0.4",
